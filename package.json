@@ -1,0 +1,23 @@
+{
+    "name": "20thcenturylifespan",
+    "version": "0.0.0",
+    "description": "Analysis of data from the Ayden Town Cemetery",
+    "main": "index.js",
+    "scripts": {
+        "test": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yikuansun/20thCenturyLifespan.git"
+    },
+    "keywords": [
+        "data",
+        "visualization"
+    ],
+    "author": "Yikuan Sun",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/yikuansun/20thCenturyLifespan/issues"
+    },
+    "homepage": "https://github.com/yikuansun/20thCenturyLifespan#readme"
+}
