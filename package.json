@@ -4,7 +4,8 @@
     "description": "Analysis of data from the Ayden Town Cemetery",
     "main": "index.js",
     "scripts": {
-        "test": "node index.js"
+        "test": "node index.js",
+        "filterData": "node getFilteredCsv.js"
     },
     "repository": {
         "type": "git",
