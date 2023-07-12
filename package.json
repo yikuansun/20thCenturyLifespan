@@ -19,5 +19,8 @@
     "bugs": {
         "url": "https://github.com/yikuansun/20thCenturyLifespan/issues"
     },
-    "homepage": "https://github.com/yikuansun/20thCenturyLifespan#readme"
+    "homepage": "https://github.com/yikuansun/20thCenturyLifespan#readme",
+    "dependencies": {
+        "danfojs-node": "^1.1.2"
+    }
 }
