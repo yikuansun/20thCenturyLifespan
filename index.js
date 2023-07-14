@@ -64,6 +64,14 @@ const dfd = require("danfojs-node");
     pltLayout = {
         width: 3200,
         height: 450,
+        xaxis: {
+            tickangle: "auto",
+            title: "year",
+        },
+        yaxis: {
+            tickangle: 45,
+            title: "avg. lifespan",
+        },
     };
 
     var html = `<script src="https://cdnjs.cloudflare.com/ajax/libs/plotly.js/2.24.2/plotly.min.js" charset="utf-8"></script>
