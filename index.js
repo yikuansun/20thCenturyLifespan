@@ -7,7 +7,13 @@ const dfd = require("danfojs-node");
     //df.plot("Born: Year ", "Rough Age (death year - birth year)", ["Predicted Gender"]).bar();
 
     var birthYears = df.column("Born: Year ").values;
-    var ages = df.column("Rough Age (death year - birth year)").values;
+    var deathYears = df.column("Died: Year").values;
+    var ages = [];
+    for (var i = 0; i < birthYears.length; i++) {
+        var bYear = birthYears[i], dYear = deathYears[i];
+        if (bYear && dYear && dYear > bYear) ages.push(dYear - bYear);
+        else ages.push(0);
+    }
     var predictedGenders = df.column("Predicted Gender").values;
     var pltData = [{
         x: [birthYears, predictedGenders],
