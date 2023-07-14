@@ -3,11 +3,21 @@ const dfd = require("danfojs-node");
 
 (async function() {
     df = await dfd.readJSON(__dirname + "/filteredGenderedData.json");
-    df.head().print();
     //df.plot("Born: Year ", "Rough Age (death year - birth year)", ["Predicted Gender"]).bar();
+
+    var invalidRows = [];
+    for (var idx of df.index) {
+        var bYear = df.at(idx, "Born: Year ");
+        var dYear = df.at(idx, "Died: Year");
+        var gender = df.at(idx, "Predicted Gender");
+        if (typeof(bYear) != "number" || typeof(dYear) != "number" || typeof(gender) != "string") invalidRows.push(idx);
+    }
+    df.drop({ index: invalidRows, inplace: true });
+    df.head().print();
 
     df.sortValues("Born: Year ", { inplace: true });
     var birthYears = df.column("Born: Year ").values;
+    for (var y of birthYears) console.log(y);
     var deathYears = df.column("Died: Year").values;
     var predictedGenders = df.column("Predicted Gender").values;
     var yearList = [];
@@ -16,14 +26,9 @@ const dfd = require("danfojs-node");
     for (var year = 1900; year < 2000; year++) {
         var mLifespans = [];
         var fLifespans = [];
-
-        while (typeof(birthYears[0]) != "number") {
-            birthYears.splice(0, 1);
-            deathYears.splice(0, 1);
-            predictedGenders.splice(0, 1);
-        }
+        
         while (birthYears[0] <= year) {
-            if (birthYears[0] == year && typeof(deathYears[0]) == "number" && deathYears[0] > birthYears[0]) {
+            if (birthYears[0] == year && deathYears[0] > birthYears[0]) {
                 ((predictedGenders[0] == "m")?mLifespans:fLifespans).push(deathYears[0] - birthYears[0]);
             }
             birthYears.splice(0, 1);
