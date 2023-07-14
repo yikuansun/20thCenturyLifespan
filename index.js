@@ -23,6 +23,7 @@ const dfd = require("danfojs-node");
     var yearList = [];
     var mfmf = [];
     var avgAges = [];
+    var cWay = [];
     for (var year = 1900; year < 2000; year++) {
         var mLifespans = [];
         var fLifespans = [];
@@ -41,12 +42,14 @@ const dfd = require("danfojs-node");
         var mSum = 0;
         for (var age of mLifespans) mSum += age;
         avgAges.push(mSum / mLifespans.length);
+        cWay.push("darkblue");
 
         mfmf.push("f");
         yearList.push(year);
         var fSum = 0;
         for (var age of fLifespans) fSum += age;
         avgAges.push(fSum / fLifespans.length);
+        cWay.push("deeppink");
 
     }
     var pltData = [{
@@ -54,6 +57,9 @@ const dfd = require("danfojs-node");
         y: avgAges,
         type: "bar",
         orientation: "v",
+        marker: {
+            color: cWay,
+        },
     }];
     pltLayout = {
         width: 3200,
