@@ -21,6 +21,11 @@ const dfd = require("danfojs-node");
         var fName = fmName.split(" ")[0];
         var gender = null;
         gender = nameGenders[fName.toLowerCase()];
+        if (!gender) {
+            var spouseParentData = ("" + df.at(idx, "Spouse/Parents if noted (Ex: Mother of Jane Doe)")).toLowerCase();
+            if (spouseParentData.includes("son of") || spouseParentData.includes("husband of")) gender = "m";
+            if (spouseParentData.includes("daughter of") || spouseParentData.includes("wife of")) gender = "f";
+        }
         genders.push(gender);
     }
     df.addColumn("Predicted Gender", genders, { inplace: true });
