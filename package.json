@@ -22,6 +22,7 @@
     },
     "homepage": "https://github.com/yikuansun/20thCenturyLifespan#readme",
     "dependencies": {
-        "danfojs-node": "^1.1.2"
+        "danfojs-node": "^1.1.2",
+        "plotly.js": "^2.24.3"
     }
 }
