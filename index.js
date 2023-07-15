@@ -16,10 +16,9 @@ const dfd = require("danfojs-node");
     df.head().print();
 
     df.sortValues("Born: Year ", { inplace: true });
-    var birthYears = df.column("Born: Year ").values;
-    for (var y of birthYears) console.log(y);
-    var deathYears = df.column("Died: Year").values;
-    var predictedGenders = df.column("Predicted Gender").values;
+    var birthYears = JSON.parse(JSON.stringify(df.column("Born: Year ").values));
+    var deathYears = JSON.parse(JSON.stringify(df.column("Died: Year").values));
+    var predictedGenders = JSON.parse(JSON.stringify(df.column("Predicted Gender").values));
     var yearList = [];
     var mfmf = [];
     var avgAges = [];
@@ -52,7 +51,7 @@ const dfd = require("danfojs-node");
         cWay.push("deeppink");
 
     }
-    var pltData = [{
+    var pltData1 = [{
         x: [yearList, mfmf],
         y: avgAges,
         type: "bar",
@@ -61,7 +60,7 @@ const dfd = require("danfojs-node");
             color: cWay,
         },
     }];
-    pltLayout = {
+    pltLayout1 = {
         width: 3200,
         height: 450,
         xaxis: {
@@ -74,13 +73,74 @@ const dfd = require("danfojs-node");
         },
     };
 
+    birthYears = JSON.parse(JSON.stringify(df.column("Born: Year ").values));
+    deathYears = JSON.parse(JSON.stringify(df.column("Died: Year").values));
+    predictedGenders = JSON.parse(JSON.stringify(df.column("Predicted Gender").values));
+    var decadeList = [1900, 1910, 1920, 1930, 1940, 1950, 1960, 1970, 1980, 1990];
+    var avgAges10Yr = [];
+    var mfmf10Yr = [];
+    var cWay10Yr = [];
+    for (var decade of decadeList) {
+        var mLifespans = [];
+        var fLifespans = [];
+        
+        while (birthYears[0] < decade + 10) {
+            if (birthYears[0] >= decade && deathYears[0] > birthYears[0]) {
+                ((predictedGenders[0] == "m")?mLifespans:fLifespans).push(deathYears[0] - birthYears[0]);
+            }
+            birthYears.splice(0, 1);
+            deathYears.splice(0, 1);
+            predictedGenders.splice(0, 1);
+        }
+
+        mfmf10Yr.push("m");
+        var mSum = 0;
+        for (var age of mLifespans) mSum += age;
+        avgAges10Yr.push(mSum / mLifespans.length);
+        cWay10Yr.push("darkblue");
+
+        mfmf10Yr.push("f");
+        var fSum = 0;
+        for (var age of fLifespans) fSum += age;
+        avgAges10Yr.push(fSum / fLifespans.length);
+        cWay10Yr.push("deeppink");
+
+    }
+    decadeList = [1900, 1900, 1910, 1910, 1920, 1920, 1930, 1930, 1940, 1940, 1950, 1950, 1960, 1960, 1970, 1970, 1980, 1980, 1990, 1990];
+    var pltData2 = [{
+        x: [decadeList, mfmf10Yr],
+        y: avgAges10Yr,
+        type: "bar",
+        orientation: "v",
+        marker: {
+            color: cWay10Yr,
+        },
+    }];
+    pltLayout2 = {
+        width: 1000,
+        height: 450,
+        xaxis: {
+            tickangle: "auto",
+            title: "decade",
+        },
+        yaxis: {
+            tickangle: 45,
+            title: "avg. lifespan",
+        },
+    };
+
+
     var html = `<script src="https://cdnjs.cloudflare.com/ajax/libs/plotly.js/2.24.2/plotly.min.js" charset="utf-8"></script>
 
-        <div id="tester" style="width:600px;height:250px;"></div>
+        <div id="tester" style="width:3200px;height:450px;"></div>
+        <div id="tester2" style="width:1000px;height:450px;"></div>
 
         <script>
             TESTER = document.getElementById('tester');
-            Plotly.newPlot( TESTER, ${JSON.stringify(pltData)}, ${JSON.stringify(pltLayout)} );
+            Plotly.newPlot( TESTER, ${JSON.stringify(pltData1)}, ${JSON.stringify(pltLayout1)} );
+
+            TESTER = document.getElementById('tester2');
+            Plotly.newPlot( TESTER, ${JSON.stringify(pltData2)}, ${JSON.stringify(pltLayout2)} );
         </script>`;
     fs.writeFileSync(__dirname + "/output.html", html, "utf-8");
 })();
