@@ -129,11 +129,47 @@ const dfd = require("danfojs-node");
         },
     };
 
+    birthYears = JSON.parse(JSON.stringify(df.column("Born: Year ").values));
+    var yearListSimple = [];
+    var validDataPoints = [];
+    for (var year = 1900; year < 2000; year++) {
+        var validDataCount = 0;
+        
+        yearListSimple.push(year);
+
+        while (birthYears[0] <= year) {
+            if (birthYears[0] == year && deathYears[0] > birthYears[0]) {
+                validDataCount++;
+            }
+            birthYears.splice(0, 1);
+        }
+
+        validDataPoints.push(validDataCount);
+    }
+    var pltData3 = [{
+        x: yearListSimple,
+        y: validDataPoints,
+        type: "bar",
+        orientation: "v",
+    }];
+    pltLayout3 = {
+        width: 1600,
+        height: 450,
+        xaxis: {
+            tickangle: "auto",
+            title: "year",
+        },
+        yaxis: {
+            tickangle: 45,
+            title: "valid data points",
+        },
+    };
 
     var html = `<script src="https://cdnjs.cloudflare.com/ajax/libs/plotly.js/2.24.2/plotly.min.js" charset="utf-8"></script>
 
         <div id="tester" style="width:3200px;height:450px;"></div>
         <div id="tester2" style="width:1000px;height:450px;"></div>
+        <div id="tester3" style="width:1600px;height:450px;"></div>
 
         <script>
             TESTER = document.getElementById('tester');
@@ -141,6 +177,9 @@ const dfd = require("danfojs-node");
 
             TESTER = document.getElementById('tester2');
             Plotly.newPlot( TESTER, ${JSON.stringify(pltData2)}, ${JSON.stringify(pltLayout2)} );
+
+            TESTER = document.getElementById('tester3');
+            Plotly.newPlot( TESTER, ${JSON.stringify(pltData3)}, ${JSON.stringify(pltLayout3)} );
         </script>`;
     fs.writeFileSync(__dirname + "/output.html", html, "utf-8");
 })();
