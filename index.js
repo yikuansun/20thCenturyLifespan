@@ -170,6 +170,6 @@ const dfd = require("danfojs-node");
 
             TESTER = document.getElementById('tester3');
             Plotly.newPlot( TESTER, ${JSON.stringify(pltData3)}, ${JSON.stringify(pltLayout3)} );
-        </script>`;
+        </script>`.split("\n").join("");
     fs.writeFileSync(__dirname + "/output.html", html, "utf-8");
 })();
