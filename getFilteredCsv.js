@@ -30,6 +30,14 @@ const dfd = require("danfojs-node");
     }
     df.addColumn("Predicted Gender", genders, { inplace: true });
 
+    var invalidRows = [];
+    for (var idx of df.index) {
+        var bYear = df.at(idx, "Born: Year ");
+        var dYear = df.at(idx, "Died: Year");
+        var gender = df.at(idx, "Predicted Gender");
+        if (typeof(bYear) != "number" || typeof(dYear) != "number" || typeof(gender) != "string") invalidRows.push(idx);
+    }
+    df.drop({ index: invalidRows, inplace: true });
 
     df.head().print();
     //var outCsv = dfd.toCSV(df);

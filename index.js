@@ -5,16 +5,6 @@ const dfd = require("danfojs-node");
     df = await dfd.readJSON(__dirname + "/filteredGenderedData.json");
     //df.plot("Born: Year ", "Rough Age (death year - birth year)", ["Predicted Gender"]).bar();
 
-    var invalidRows = [];
-    for (var idx of df.index) {
-        var bYear = df.at(idx, "Born: Year ");
-        var dYear = df.at(idx, "Died: Year");
-        var gender = df.at(idx, "Predicted Gender");
-        if (typeof(bYear) != "number" || typeof(dYear) != "number" || typeof(gender) != "string") invalidRows.push(idx);
-    }
-    df.drop({ index: invalidRows, inplace: true });
-    df.head().print();
-
     df.sortValues("Born: Year ", { inplace: true });
     var birthYears = JSON.parse(JSON.stringify(df.column("Born: Year ").values));
     var deathYears = JSON.parse(JSON.stringify(df.column("Died: Year").values));

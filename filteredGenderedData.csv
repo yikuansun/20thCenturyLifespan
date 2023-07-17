@@ -1,41 +1,30 @@
 Cemetery/Project,Location in Cemetery: Section #,Location in Cemetery: Row #,Location in Cemetery: Grave #,Last Name:,First/Middle Name:,Spouse/Parents if noted (Ex: Mother of Jane Doe),Born: Day (Ex: 12),Born: Month,Born: Year ,Died: Day,Died: Month,Died: Year,Epitaph:,Decoration:,Gravestone Material:,Gravestone Form/Dimension,Orientation:,Footstone:,Additional Comments:,Additional Footstone Comments:,Birthdate,Death Date,Rough Age (death year - birth year),/0,Predicted Gender
-ATC,2,1,2,Hugh,William,Parents: D.W + K. A ,,,,,,,,,Marble,Headstone,,,,,//,//,0,,m
 ATC,2,1,3,Lee,Robert,,23,7,1906,28,4,1911,(Illegible),Sheep cowering on the apex of the tombstone,Marble,,,,,,7/23/1906,4/28/1911,5,,m
 ATC,2,1,4,Taylor,Dr. J.W.,Parents: J.R. + Josephine,24,9,1872,7,8,1936,,,Marble,Headstone,,,,,9/24/1872,8/7/1936,64,,
-ATC,2,1,5a,,,,,,,,,,,,Marble,Headstone,,No,"Broken, buried in ground",,//,//,0,,
 ATC,2,1,5b,Buck,J.L.,Father presumably Husband (wife is beside him to the south),28,11,1852,14,7,1919,,Brick above ground vault,Marble,Headstone,,No,Headstone on top of above ground vault,,11/28/1852,7/14/1919,67,,
-ATC,2,1,6,,,Wife of Jim Buck,,,,,,,"Love, Grandaughter Mary Jane",,Granite,Not Documented,,,,,//,//,0,,
 ATC,2,1,7,Cox,Henrietta J. W.,,27,11,1874,12,12,1927,,,Marble,Slab,,No,Marble slab w/ brick base,,11/27/1874,12/12/1927,53,,f
-ATC,2,1,8,,,,,3,,,2,,Our loved one,,Marble,Headstone,,,Unreadable,,3//,2//,0,,
 ATC,2,1,9,Spear,William A.,,5,4,1904,27,2,1932,One by one life robs us of our treasures; nothing is our own except our dead,Flowers engraved,Marble,Headstone,,No,,,4/5/1904,2/27/1932,28,,m
 ATC,2,1,10,Spear,Esther Marie,,10,7,1911,29,4,2004,The lord is my Shepherd,n/a,Granite,Plaque,,No,,,7/10/1911,4/29/2004,93,,f
 ATC,2,1,11,Spear,Ida Gaskins,Charlie Edward,16,10,1880,9,10,1965,There are no partings in Heaven,,Marble,,,No,Dual headstone with Charlie Edward,,10/16/1880,10/9/1965,85,,f
 ATC,2,1,11b,Spear,Charlie Edward,,12,12,1869,31,10,1951,"""There are no partings in Heaven""",,Marble,,,No,Dual Headstone,,12/12/1869,10/31/1951,82,,m
 ATC,2,1,12,Spear,Lovey,,22,11,1840,14,6,1921,Widow 43 years; A tender mother; a faithful friend,,Marble,Obelisk,,No,,,11/22/1840,6/14/1921,81,,f
-ATC,2,1,13,Illegible,Illegible,,Illegible,,Illegible,Illegible,,Illegible,Illegible,Sheep carving (missing head),Marble,,,No,,,/Illegible/Illegible,/Illegible/Illegible,#VALUE!,,
-ATC,2,1,14,Tripp,Elbert,Parents: O.F. + Anna Tripp,2,6,1910,,,,,,Marble,Headstone,,No,,,6/2/1910,//,-1910,,m
 ATC,2,1,15,Tripp,Anna,Joe C. 1881-1942,,,1886,,,1969,J.C.T.,Headstone engraved,Granite,Headstone,,No,,,//1886,//1969,83,,f
 ATC,2,1,16a,Roberson,Baulah Mumford,Spouse: Henry David 1892-1957,,,1893,,,1974,A good name is rather to be chosen than great riches,"Stones on the four corners engraved with ""R""; flowers engraved",Granite,,,Yes,Footstone has initials,,//1893,//1974,81,,
 ATC,2,1,16b,Roberson,Preston Henry,,20,4,1917,11,5,1917,,,,,,,Child Grave,,4/20/1917,5/11/1917,0,,m
-ATC,2,2,1,Taylor,Daisy E.,Daughter of J.R + Josephine Taylor,Illegible,,Illegible,Illegible,,Illegible,N/A,Zig-zag boarders/embellishments,Marble,,,No,,,/Illegible/Illegible,/Illegible/Illegible,#VALUE!,,f
 ATC,2,2,2,Taylor,Lula E.,J.R. + Josephine Taylor; Sister (relation),6,7,1877,22,7,1963,,,Marble,Headstone,,Yes,,,7/6/1877,7/22/1963,86,,f
 ATC,2,2,3,Taylor,,Spouse of J.R. Taylor,31,8,1851,27,10,1930,,,Marble,Headstone,,No,,,8/31/1851,10/27/1930,79,,
 ATC,2,2,4,Robinson,Roy Ray,Spouse: Mary Jane Cox,9,10,1906,1,6,1938,,,Granite,marker,,No,,,10/9/1906,6/1/1938,32,,m
 ATC,2,2,5,Mcoy,Emily,Spouse: William Mcoy,,8,1939,23,5,1905,,,Marble,Headstone,,No,Broken in half,,8//1939,5/23/1905,-34,,f
 ATC,2,2,6,Tripp,Mae Brooks,Spouse: M. Frank Sawyer,17,1,1907,28,8,1966,Mother,,Granite,Headstone,,No,,,1/17/1907,8/28/1966,59,,f
-ATC,2,2,7,Sawyer,M. Frank,N/A,,,,,,,N/A,Cross,Marble,,,No,1833?; Soldier,,//,//,0,,
 ATC,2,2,19,Nichols,Alfred,,21,4,1834,1,1,1915,,,Marble,Marker,,No,,,4/21/1834,1/1/1915,81,,m
 ATC,2,3,1,Smith,Octavia Dail,Mother,1,8,1866,5,8,1935,"Gone, but not forgotten ",Floral motifs,Granite,,,No,,,8/1/1866,8/5/1935,69,,f
 ATC,2,3,2,Dail,George Washington,,21,2,1856,8,8,1944,,,Marble,Marker,,No,,,2/21/1856,8/8/1944,88,,m
 ATC,2,3,3,Dail,Mollie,,5,12,1863,30,8,1932,,,Marble,Headstone,,No,"Marble headstone, concrete slab atop a raised brick vault",,12/5/1863,8/30/1932,69,,f
-ATC,2,3,4,Dail,Illegible ,,2,6,1901,,,,,,,,,No,,,6/2/1901,//,-1901,,
 ATC,2,3,6a,Fletcher,Jenkins,,1,3,1900,23,5,1945,,"Flower motifs in an archway; arched arabesque headstone, marble vase for flowers",Marble,Headstone,,No,Jenkins family plot,,3/1/1900,5/23/1945,45,,
-ATC,2,3,6b,Fletcher,Lula Mae,,,,,,,,,"Flower motifs in an archway; arched arabesque headstone, marble vase for flowers",Marble,Headstone,,,Jenkins family plot,,//,//,0,,f
 ATC,2,3,7a,Jenkins,Florence Adams,,18,2,1878,18,2,1957,,,Marble,Headstone,,No,,,2/18/1878,2/18/1957,79,,f
 ATC,2,3,7b,Jenkins,Sola Alphonso,,31,10,1871,25,10,1941,,,Marble,Headstone,,No,,,10/31/1871,10/25/1941,70,,
 ATC,2,3,8,Cox,Willam Dallas,,9,9,1922,4,4,1998,"US merchant Marine, US Army, WWII","US flag, engraved cross",Granite,,,,,,9/9/1922,4/4/1998,76,,m
 ATC,2,3,9,Senkins,Bruce A.,,17,1,1902,12,12,1957,"Ha2 US Navy, World War I",engraved Cross,Granite,,,,,,1/17/1902,12/12/1957,55,,m
-ATC,2,3,10,,,,,,,,,,,,Marble,Headstone,,Yes,,,//,//,0,,
 ATC,2,3,11a,Gaskins,Josephus,,27,1,1853,15,7,1923,An honest man; the noblest work of God,"Tree motifs on a large family obelisk, noted ""Gaskins""",Marble,Obelisk,,Yes,,,1/27/1853,7/15/1923,70,,m
 ATC,2,3,11b,Cox,Harriet Ann,Spouse- Harriet: Wife of Josephus,25,5,1858,28,12,1938,In remembrance of our dear mother,"Tree motifs on a large family obelisk, noted ""Gaskins""",Marble,Obelisk,,Yes,,,5/25/1858,12/28/1938,80,,f
 ATC,2,3,12a,McCaskey,Mary,Rev Josephy McCaskey & Laura E. McCaskey,20,8,1907,14,3,1908,,Engraving ,Marble,,,No,,,8/20/1907,3/14/1908,1,,f
@@ -45,12 +34,8 @@ ATC,2,3,13a,Peden,Lousia Martin,,28,2,1836,13,9,1832,Blessed are the pure in hea
 ATC,2,3,13b,Peden,Rev. T. E.,,13,9,1832,3,2,1913,Blessed are the pure in heart for they shall see God,Free mason symbol,Marble,,,No,,,9/13/1832,2/3/1913,81,,
 ATC,2,3,14,Bukmann,Frederick Gustvus,Son of Frederick G. and Bertha Dawson Bukmann,12,6,1910,12,6,1912,N/A,Flower carving on top the tombstone,Marble,,,No,,,6/12/1910,6/12/1912,2,,m
 ATC,2,3,15,Dawson,Lena,,,,1881,,,1958,,,Marble,Headstone,,No,,,//1881,//1958,77,,f
-ATC,2,3,16a,Jenkins,Routh Thomas,Parent: Florence Jenkins,,,,,,,- gather the lambs in his arms,lamb on top ,Marble,Headstone,,No,,,//,//,0,,
-ATC,2,3,16b,Dawson,Sarah R,Spouse: Council Dawson,18,7,1854,26,1,19??,,,Marble,Slab,,No,,,7/18/1854,1/26/19??,#VALUE!,,f
 ATC,2,3,17,Dawson,Council,,22,8,1844,10,10,1900,"One precious to our hearts has gone. The voice we loved is stillled. the places made - in our home can never more be filled. Our father in his wisdom called. The boon his love had given. And though on Earth the body lies, the soul is safe in heaven.",,Marble,Slab,,No,,,8/22/1844,10/10/1900,56,,m
 ATC,2,3,18a,Fames,Lula H.,,18,2,1900,14,1,1938,Lovable and loved companion,Book embellishments with floral motifs,Granite,Headstone,,Yes,"Footstone ""MOTHER""; Heath Family Plot",,2/18/1900,1/14/1938,38,,f
-ATC,2,3,18b,Heath,D.B.,,,,,30,3,1915,,,Marble,Obelisk,,No,,,//,3/30/1915,1915,,
-ATC,2,3,18c,Heath,Susan,,,,,2,7,1913,,,Marble,Obelisk,,No,,,//,7/2/1913,1913,,f
 ATC,2,3,18d,Heath,Lucy N,,5,2,1865,7,4,1986,They rest in peace together ,Floral Motifs,Granite,Headstone,,Yes,"Footstone says ""MOTHER""/ ""L.N.H.""",,2/5/1865,4/7/1986,121,,f
 ATC,2,3,18e,Heath,Thomas B.,,21,2,1894,21,10,1950,They rest in peace together ,Floral Motifs ,Granite,Headstone,,Yes,"""Father""",,2/21/1894,10/21/1950,56,,m
 ATC,2,3,19,Nichols,Alfred,N/A,24,4,1834,1,1,1915,N/A,N/A,Marble,Headstone,,No,,,4/24/1834,1/1/1915,81,,m
@@ -59,23 +44,19 @@ ATC,2,3,21,Hemby,Maggie E.,Spouse: Luke Hemby,4,10,1868,14,1,1927,,,Marble,marke
 ATC,2,3,22,Hemby,Luke,,27,1,1868,27,11,1919,,,Marble,marker,,No,,,1/27/1868,11/27/1919,51,,m
 ATC,2,4,1,Everett,Willie L.,Father: Rev. W.B. Mother: Fannie L.,5,11,1905,25,12,1929,"""His memory is blessed""",engraving,Granite,,,No,,,11/5/1905,12/25/1929,24,,m
 ATC,2,4,2,Everett,Charles,Parents: W.B. + Annie Everett,1,7,1906,12,4,1914,,lamb,Marble,Headstone,,No,,,7/1/1906,4/12/1914,8,,m
-ATC,2,4,3,Tyson,Coy,,Illegible,,Illegible,Illegible,,Illegible,,,Marble,Headstone,,No,,,/Illegible/Illegible,/Illegible/Illegible,#VALUE!,,m
 ATC,8,1,16,Burney,Claude F.,,23,1,1906,1,9,1986,,,Granite,Plaque,East/West,No,,,1/23/1906,9/1/1986,80,,m
 ATC,8,1,30,Bateman,J. Albert,,16,10,1912,4,1,1997,,,Granite,Plaque,East/West,No,,,10/16/1912,1/4/1997,85,,
 ATC,1,3,30,Stokes ,R.D.,,,,1889,,,1930,,,Granite,Plaque,East/West,,,,//1889,//1930,41,,
-ATC,7,3,4,Chestnut,Almeda,,,,,,,,Resting,,Granite,Vault,East/West,,Family Plot,,//,//,0,,f
 ATC,6,4,5,Stokes,Herber M.,,25,9,1882,25,9,1945,,,Granite,Plaque,East/West,No,Stokes Family plot,,9/25/1882,9/25/1945,63,,
 ATC,8,2,1,Dail,Susan E.,,,,1867,,,1942,,,Marble,Headstone,East/West,No,Shared grave,,//1867,//1942,75,,f
 ATC,8,1,31,Bateman,Bingo,,,,1949,,,1962,,,Granite,Plaque,East/West,No,Bateman Family Plot,,//1949,//1962,13,,
 ATC,6,4,14,Britt,Russell D.,,18,1,1912,3,4,1942,,,Marble,Plaque,East/West,No,,,1/18/1912,4/3/1942,30,,m
 ATC,8,1,17,Burney,Verna D.,,27,11,1917,4,1,2015,,,Granite,Plaque,East/West,No,,,11/27/1917,1/4/2015,98,,f
 ATC,1,3,31,Magnolia ,D.C. Stokes ,,,,1865,,,1925,,,Granite,Plaque,East/West,,,,//1865,//1925,60,,
-ATC,7,3,5,Chestnut,Lemuel,,,,,,,,Resting,,Granite,Vault,East/West,,Family Plot,,//,//,0,,m
 ATC,1,3,32,Stokes,David C. ,,10,10,1862,9,2,1940,,,Granite,Plaque,East/West,,,,10/10/1862,2/9/1940,78,,m
 ATC,6,4,1,Stokes,Clyde,,11,4,1907,23,8,1983,,,Granite,Plaque,East/West,No,Stokes Family Plot,,4/11/1907,8/23/1983,76,,m
 ATC,6,4,15,Nichols,Nancy A.,J. B. Pierce,28,11,1880,5,10,1940,"""Wife of...""",,Marble,Plaque,East/West,No,Britt Pierce Family Plot,,11/28/1880,10/5/1940,60,,f
 ATC,8,1,1,Dail,Fannie W,Spouse/ Geo. Frank Dail,15,3,1881,24,12,1963,,Floral Border,Marble,Headstone,East/West,No,shared headstone with spouse,,3/15/1881,12/24/1963,82,,f
-ATC,7,3,6,Skinner,Martha Chestnut,,,,,,,,Resting,,Granite,Vault,East/West,,Family Plot,,//,//,0,,f
 ATC,6,4,2,Stokes,Fannie R,,1,11,1881,31,7,1969,,,Granite,Plaque,East/West,No,Stokes Family Plot,,11/1/1881,7/31/1969,88,,f
 ATC,8,1,2,Dail,Geo. Frank,Spouse/ Fannie W. Dail,15,3,1881,24,12,1963,,Floral border,Marble,Headstone,East/West,No,,,3/15/1881,12/24/1963,82,,
 ATC,7,3,7,Quinerly,Infant Son,Parents: Walter and Aldine Quinerly,18,1,1923,18,1,1923,,,Marble,Plaque,East/West,,Part of family plot,,1/18/1923,1/18/1923,0,,f
@@ -96,7 +77,6 @@ ATC,7,3,9,Quinerly,Walter A.,Spouse: Aldine Best Quinerly,4,8,1899,13,3,1985,,Cr
 ATC,7,3,23,Cox,Margaret H. Whitford,Spouse: Cannon Cox,21,5,1884,6,11,1885,"""They shall rest from their labors""",Floral Motif (Ivy?),Granite,Headstone,East/West,Yes,"Joint headstone w/ Laura virginia Cox, Initials M. H. C. on footstone",,5/21/1884,11/6/1885,1,,f
 ATC,8,1,6,Sumrell,Craven,,,,1847,,,1920,,,Marble,Plaque,East/West,No,,,//1847,//1920,73,,
 ATC,6,5,6,Edwards,Olga Jane,,8,6,1913,25,1,1915,,,Granite,Plaque,East/West,No,Edwards Family Plot,,6/8/1913,1/25/1915,2,,f
-ATC,7,4,13,Harper,Grace Edna ,,13,2,1916,,,,,,Granite,Plaque,East/West,No,"Harper Family Plot, large cross family marker with $",,2/13/1916,//,-1916,,f
 ATC,7,3,29,Cox,Albert Dow,,,,1869,,,1951,,Freemasons Symbol,Granite,Headstone,East/West,No,,,//1869,//1951,82,,m
 ATC,7,3,10,Quinerly,Mary E.,,7,6,1872,8,6,1958,,,Granite,Plaque,East/West,,Family plot,,6/7/1872,6/8/1958,86,,f
 ATC,8,1,7,Sumrell,Moses H.,,,,1887,,,1962,,,Marble,Plaque,East/West,No,,,//1887,//1962,75,,m
@@ -128,7 +108,6 @@ ATC,8,1,24,Noble,Stephen,,20,5,1827,illegible D/M,,1854,We cherish thy memory,,M
 ATC,6,6,6,Wingate,Mary S.,Mother,24,1,1872,3,1,1945,,,Granite,Vault (Brick and cement),East/West,No,,,1/24/1872,1/3/1945,73,,f
 ATC,6,4,32,Turnage,Jennie,Wife of K. A. Pittman,12,5,1895,4,3,1923,"A noble woman, true loving wife, a devout Christian, whose influence will live in the lives of others until eternity",,Marble,Headstone,East/West,No,Turnage Family Plot,,5/12/1895,3/4/1923,28,,f
 ATC,7,3,16,Worthington,Thelbert G.,,21,5,1899,31,8,1998,,Cross,Granite,Plaque,East/West,,Family plot,,5/21/1899,8/31/1998,99,,
-ATC,8,1,10,Sumrell,Guy H. M.D.,,,,1892,1937,,,,,Marble,Plaque,East/West,No,,,//1892,/1937/,-1892,,m
 ATC,6,5,9,Edwards,Ida Weston,,24,12,1880,1,4,1959,,,Granite,Plaque,East/West,No,,,12/24/1880,4/1/1959,79,,f
 ATC,7,4,17,Brown,Florence ,Parents: R.G. Brownie Jackson,31,8,1923,23,11,1924,,Dove with branches ,Marble,,East/West,No,Jackson Family Plot,,8/31/1923,11/23/1924,1,,f
 ATC,6,4,33,Perry,Lillian,Wife of Lloyd E. Turnage,31,1,1898,20,9,1985,,Floral motif,Marble,Headstone,East/West,No,Turnage Family plot,,1/31/1898,9/20/1985,87,,f
@@ -138,15 +117,12 @@ ATC,8,1,25,Bateman,Rena M.,,29,12,1923,23,6,2016,,,Granite,Plaque,East/West,No,,
 ATC,7,3,17,Roth,Anne F. Abernathy,"Spouse: Walter L. Roth, Jr. (joint headstone)",14,6,1956,27,4,2020,"""To Live In The Hearts We Leave Behind Is To Not Die""",Celtic knot,Granite,Joint plaque,East/West,,,,6/14/1956,4/27/2020,64,,f
 ATC,6,4,34,Turnage,Lloyd E.,,2,3,1891,27,9,1947,,Floral motif,Marble,Headstone,East/West,No,Turnage family plot,,3/2/1891,9/27/1947,56,,m
 ATC,8,1,14,Burney,Edmund F.,,15,2,1867,18,10,1931,,,Granite,Plaque,East/West,No,,,2/15/1867,10/18/1931,64,,m
-ATC,6,4,28,,,,,,,,,,,,,,,,,,//,//,0,,
 ATC,6,6,7,Wingate,Richard,Father,15,9,1871,16,5,1923,Be loved one farewell,Floral,Marble,Vault (Brick)  Headstone,East/West,No,,,9/15/1871,5/16/1923,52,,m
 ATC,8,1,25,Bateman,James D.,,15,4,1885,5,1,1958,,,Granite,Plaque,East/West,,,,4/15/1885,1/5/1958,73,,m
 ATC,7,4,18,Jackson (Brownie),Stella Taylor,,7,3,1896,2,3,1983,,,Granite,Plaque,East/West,No,Jackson Family Plot,,3/7/1896,3/2/1983,87,,f
 ATC,6,4,35,Turnage,Lucye,Wife of D. F. Crowell,11,5,1884,31,1,1950,Peace perfect peace,,Marble,Headstone,East/West,No,Shared headstone,,5/11/1884,1/31/1950,66,,f
 ATC,6,5,12,Edwards,Olga T.,,8,11,1879,9,7,1966,,,Granite,Plaque,East/West,No,Edwards Family Plot,,11/8/1879,7/9/1966,87,,f
 ATC,8,1,15,Burney,Lizzie L.,,4,5,1880,6,10,1937,,,Granite,Plaque,East/West,No,,,5/4/1880,10/6/1937,57,,f
-ATC,7,3,18,Roth,Walter L. (Jr.),Spouse: Anne F. Abernathy Roth (joint headstone),21,11,1949,,,,"""To Live In The Hearts We Leave Behind Is To Not Die""",Celtic knot,Granite,Joint plaque,East/West,,,,11/21/1949,//,-1949,,m
-ATC,6,4,28,Tudor,Judy Stillman,,21,2,1947,,,,,,Marble,,East/West,No,"* family plot, still alive",,2/21/1947,//,-1947,,f
 ATC,6,4,36,Crowell,D. F.,,,,1874,,,1924,Peace Perfect Peace,,Marble,Headstone,East/West,No,Shared headstone,,//1874,//1924,50,,
 ATC,6,5,10,Edwards,W. Ormond,,7,10,1899,11,2,1928,,,Granite,,East/West,No,,,10/7/1899,2/11/1928,29,,
 ATC,7,3,36,Stokes,Vann B.,,,,1897,,,1979,PFC US Army World War II,cross,Granite,Plaque,East/West,No,,,//1897,//1979,82,,
@@ -160,7 +136,6 @@ ATC,6,5,13,Edwards,William M.,,22,9,1873,27,5,1953,,,Granite,Plaque,East/West,No
 ATC,7,1,5,Forbes,Zebbie Tick,,10,3,1922,5,10,1945,,Cross,Granite,Plaque,East/West,No,,,3/10/1922,10/5/1945,23,,
 ATC,6,4,44,Turnage,Marry Louise,,5,11,1918,2,11,1920,Lord teach me to give back to thee the treasure thou didst(?) lend to me,Floral motif,Marble,Headstone,East/West,No,Turnage family plot,,11/5/1918,11/2/1920,2,,f
 ATC,6,5,11,Edwards,Eloise C.,Wife of W.O. Edwards / Daughter of Wyatt E. Cannady,2,1,1895,22,8,1929,,Square Floral Patterns,Granite,,East/West,,,,1/2/1895,8/22/1929,34,,f
-ATC,7,3,1,Chestnut,Illegible-headstone fallen over,,,,,,,,,,Marble,Headstone,East/West,Yes,part of family plot,,//,//,0,,
 ATC,7,4,1,Taylor,Bessie,Spouse: Ernest E. Hardee,27,11,1879,13,7,1960,,,Granite,Plaque,East/West,,Hardee family plot,,11/27/1879,7/13/1960,81,,f
 ATC,6,2,10,House,Fonnie McLawhorn,,17,3,1878,30,4,1939,,,Granite,Plaque,East/West,No,House Family Plot,,3/17/1878,4/30/1939,61,,
 ATC,7,4,20,Jackson,Eleanor Louise ,"Spouse: Clayborne Lee Evans D. 1975, Howard Weir Grice D. 1996",12,11,1918,11,6,2003,,,Granite,Plaque,East/West,No,Jackson Family Plot ,,11/12/1918,6/11/2003,85,,f
@@ -177,9 +152,7 @@ ATC,6,4,30,Smith,Corabob,Spouse: Roy Turnage Jr.,15,7,1917,25,2,2012,,Music note
 ATC,7,4,4,Lawrence,Joseph J.,,27,8,1864,9,12,1927,,,Granite,Plaque,East/West,,Lawrence family plot,,8/27/1864,12/9/1927,63,,m
 ATC,6,4,41,Turnace,William D. Johnson Jr.,,8,8,1914,9,10,1983,,Floral,Marble,Headstone,East/West,No,,,8/8/1914,10/9/1983,69,,m
 ATC,7,1,8,Hardee,Jack,Parents/ W.B. (William B>) and Majorie Covinston,27,8,1926,7,9,1926,,,Granite,Plaque,East/West,No,,,8/27/1926,9/7/1926,0,,m
-ATC,7,4,5,Russel,Helen Dixon,,12,8,,26,11,1987,With love of family and friends we say peace be with you,Floral motif,Granite,Vault,East/West,,Dixon family plot,,8/12/,11/26/1987,1987,,f
 ATC,7,1,18,Garris,Milton Ray,,23,3,1926,19,12,1979,,,Granite,Plaque,East/West,No,,,3/23/1926,12/19/1979,53,,m
-ATC,6,4,39,Baxley,Sarah frances Johnson,,16,1,1944,,,,I love you to the moon and back,Child and Dog,Granite,Headstone,East/West,No,Turnage Family Plot,,1/16/1944,//,-1944,,f
 ATC,7,1,9,Humbles,James Lee,,2,5,1921,10,12,1967,,,Granite,Plaque,East/West,No,,,5/2/1921,12/10/1967,46,,m
 ATC,7,1,25,Rogerson,William C.,,4,4,1911,10,9,1959,,,Granite,Plaque,East/West,No,,,4/4/1911,9/10/1959,48,,m
 ATC,7,4,6,Dixon,Irene Buck,Spouse: John Mic. Dixon,18,4,1856,24,1,1938,A true wife and loving mother,Floral motif,Granite,Vault,East/West,,Dixon family plot,,4/18/1856,1/24/1938,82,,f
@@ -190,7 +163,6 @@ ATC,7,1,25,Baldree,Letha T.,,6,3,1900,14,2,1985,,,Granite,Plaque,East/West,No,,,
 ATC,8,2,19,Jones,J. Robert,Mr. & Mrs. J. E. Jones Husband of: Mildred S. Jones,25,12,1899,16,1,1932,,Flower in circle,Granite,,East/West,,*Jones Family Plot ,,12/25/1899,1/16/1932,33,,m
 ATC,7,4,21,Hull,Rosalind T.,,11,1,1899,28,10,1955,She believed and sleeps in Jesus ,Floral and Scroll motif ,Granite,,East/West,Yes,Jackson Family Plot ,,1/11/1899,10/28/1955,56,,f
 ATC,7,4,7,Dixon,John M.C.,Spouse: Irene Buck Dixon,24,3,1862,29,10,1944,A true husband and loving father,Floral motif,Granite,Vault,East/West,,Dixon family plot,,3/24/1862,10/29/1944,82,,m
-ATC,7,1,33,Cauley,Mary,Spouse: Wife of Asa R. Moore,16,10,189? ,7,11,1983,,,Granite,Plaque,East/West,,,,10/16/189? ,11/7/1983,#VALUE!,,f
 ATC,7,1,27,Hufham,Dorothy Rowe,,16,10,1915,6,9,2006,,,Granite,Plaque,East/West,No,,,10/16/1915,9/6/2006,91,,f
 ATC,7,1,11,Humbles,Charles W.,,30,10,1885,9,9,1956,,,Granite,Plaque,East/West,No,,,10/30/1885,9/9/1956,71,,m
 ATC,6,4,42,Turnage,Virginia,"Wife of William D. Johnson, J.R.",6,7,1913,2,10,1981,,Flowers,Marble,Plaque,East/West,No,Turnage Family Plot,,7/6/1913,10/2/1981,68,,f
@@ -224,7 +196,6 @@ ATC,8,2,18,Brooks,Jesse R.,,1,3,1923,25,11,1987,,Book and Floral,Granite,Plaque,
 ATC,7,1,15,Garris,Tipsey Bobby,,27,2,1930,7,12,2002,,,Granite,Plaque,East/West,No,,,2/27/1930,12/7/2002,72,,
 ATC,7,3,21,Dudley ,Ray L. ,,9,2,1906,27,9,1978,,,Granite,Plaque,East/West,No,Burney Family Plot ,,2/9/1906,9/27/1978,72,,m
 ATC,5,7,3,Beddard,John T. Sr,Willie F. Beddard,,,1894,,,1964,,2 Flower holders and floral carvings,Granite,Headstone,,No,Shared with #2,,//1894,//1964,70,,m
-ATC,7,1,17,Schutte,Alberta G.,,12,9,1930,,,,,,Granite,Plaque,East/West,No,,,9/12/1930,//,-1930,,f
 ATC,8,2,25,Padley,Thelma,,8,12,1908,9,5,1909,,,Granite,Plaque,East/West,,,,12/8/1908,5/9/1909,1,,f
 ATC,8,2,6,Tripp,Millie,,,,1936,,,2022,In loving memory/Burial site the waters of Ocracoke Island NC,,Granite,Headstone,East/West,No,,,//1936,//2022,86,,f
 ATC,8,2,9,House?,Illegable,Son of [  ] House,,1,1918,,,1919,Illegable,Lamb,Marble,Headstone,East/West,Yes,House family Plot,,1//1918,//1919,1,,m
@@ -238,7 +209,6 @@ ATC,8,2,29,Vann,John Robert,,2,11,1895,7,3,1973,North Carolina PTR2 USNRF World 
 ATC,6,6,2,Alexander,Mattie Mclawhorn,Spouse,13,8,1882,12,10,1965,,,Granite,Plaque,East/West,,family plot,,8/13/1882,10/12/1965,83,,f
 ATC,6,6,3,Roberson,Florence T.,Spouse,13,7,1901,9,5,1995,,urns and floral patterns,Granite,Headstone,East/West,,,,7/13/1901,5/9/1995,94,,f
 ATC,8,2,7,Tripp,Benjamin Riley Sr.,,15,9,1934,21,7,2019,,,Granite,,East/West,,Tripp family plot,,9/15/1934,7/21/2019,85,,m
-ATC,8,2,8,Tripp,Videau Joyner,,24,12,1934,,,,,Cross with flowers,Granite,,,,Tripp family plot,,12/24/1934,//,-1934,,
 ATC,6,4,6,Johnson,Charles H,,9,12,1895,21,6,1971,,,Granite,,East/West,,Family Plot,,12/9/1895,6/21/1971,76,,m
 ATC,6,4,7,Patrick,Carrie J.,,28,2,1890,10,10,1968,,,Granite,,East/West,,Family Plot,,2/28/1890,10/10/1968,78,,f
 ATC,6,4,8,Patrick,Joseph B.,,28,6,1879,3,5,1996,,,Granite,,East/West,,Family Plot,,6/28/1879,5/3/1996,117,,m
@@ -246,14 +216,11 @@ ATC,6,4,9,Allen,Nell Patrick,,25,11,1924,8,10,1993,Jrome?,,,,East/West,,Family P
 ATC,6,4,10,Allen,Wilfred W,,21,4,1922,2,2,1981,Thy Mill he Done,,Granite,,East/West,,Family Plot,,4/21/1922,2/2/1981,59,,m
 ATC,6,4,11,Patrick,Catherine R.,,11,3,1850,24,2,1929,God's Finger touched her and she slept; His Wife,Crest,Granite,,East/West,Yes,"Shared Grave, Family Plot; Footstone: C.R.P.",,3/11/1850,2/24/1929,79,,f
 ATC,6,4,12,Patrick,C.L.,,14,12,1845,7,7,1922,Gods Finger touched him and he slept,Crest,Granite,,East/West,Yes,"Family plot, Shared grave; Footstone- C.L.P.",,12/14/1845,7/7/1922,77,,
-ATC,6,4,13,Allen,Deborah P.,,8,1,1962,,,,,Sheep,Marble,Diamond,,Yes,Family Plot; Footstone- Daughter,,1/8/1962,//,-1962,,f
 ATC,6,4,27,Turnage,R.L.,,24,9,1887,4,8,1954,,Flowers,Granite,,East/West,,Start of family plot,,9/24/1887,8/4/1954,67,,
 ATC,6,4,26,Ormond,Bonnie,Spouse: R.L. Turnage,2,7,1889,27,10,1943,,flowers,Granite,,East/West,,Family plot,,7/2/1889,10/27/1943,54,,f
-ATC,6,4,17,,,,,,,,,,,,,,,,,,//,//,0,,
 ATC,6,4,17,Turnage,J. Raymond,,3,8,1882,31,12,1947,A good husband and father,flowers,Marble,,East/West,,Start of family plot,,8/3/1882,12/31/1947,65,,
 ATC,6,4,18,Moseley,Eva,Spouse: J.R. Turnage,13,7,1883,1,5,1945,A good wife and mother,flowers,Marble,,East/West,,family plot,,7/13/1883,5/1/1945,62,,f
 ATC,6,4,19,,Turnage Jr.,J.R.,4,9,1911,7,10,1931,,flowers,Marble,,East/West,,Family plot,,9/4/1911,10/7/1931,20,,
-ATC,6,4,20,Turnage,,Parents: J.R. and Eva,,,,26,3,1914,,flowers,Marble,,East/West,,Family plot,,//,3/26/1914,1914,,
 ATC,6,4,21,Turnage,Frances,Spouse: Harry W Stillman,25,2,1919,25,1,2008,,flowers,Marble,,East/West,,family plot,,2/25/1919,1/25/2008,89,,f
 ATC,6,4,22,Stillman,Harry Ward,,15,4,1914,8,6,1987,US Army M. SGT WWII,flowers,Marble,,East/West,,Family plot,,4/15/1914,6/8/1987,73,,m
 ATC,6,4,23,McCay,"Thomas Brice ""Mac""",,4,1,1914,18,3,1994,,flowers,Granite,,East/West,,Family plot,,1/4/1914,3/18/1994,80,,m
@@ -316,7 +283,6 @@ ATC,5,14,13,Davis,James A.,,,,1856,,,1923,His memory is blessed,Free Masons,Gran
 ATC,5,14,14,Davis,Louise W.,,,,1857,,,1926,Her memory is blessed,Star inside circle,Granite,,East/West,No,family plot,,//1857,//1926,69,,f
 ATC,5,14,15,Holton,Martha D.,,12,5,1877,10,9,1959,,,Granite,,East/West,No,shared grave,,5/12/1877,9/10/1959,82,,f
 ATC,5,14,16,Holton,Calvin M.,,27,4,1866,28,12,1934,,,Granite,,East/West,No,shared grave,,4/27/1866,12/28/1934,68,,m
-ATC,5,14,17,illegible,illegible,,,,,,,,,,Marble,,East/West,No,,,//,//,0,,
 ATC,5,10,16,Coward,Blanche Cannon,,16,6,1888,11,3,1986,,,Granite,,East/West,No,family plot,,6/16/1888,3/11/1986,98,,f
 ATC,5,10,17,,Melvin Cannon,Son of J.H. & Blanche Coward,17,9,1917,19,11,1918,,Family plot,Granite,,East/West,No,,,9/17/1917,11/19/1918,1,,m
 ATC,5,8,2,Baldree,Martin Colon,,24,1,1910,30,9,2000,,family plot,Granite,,East/West,No,,,1/24/1910,9/30/2000,90,,m
@@ -345,7 +311,6 @@ ATC,5,14,7,McLohon,Fannie Harrington,,10,2,1864,15,3,1944,,family plot,Granite,,
 ATC,5,14,8,McLohon,Elias B,,31,10,1864,18,2,1908,,family plot,Granite,,East/West,No,,,10/31/1864,2/18/1908,44,,m
 ATC,5,14,9,McLohon,Carlos J,,19,12,1894,24,12,1928,,family plot,Granite,,East/West,No,,,12/19/1894,12/24/1928,34,,m
 ATC,5,8,1,Baldree,Louise Sutton,,10,5,1912,5,11,1986,,family plot,Granite,,East/West,No,,,5/10/1912,11/5/1986,74,,f
-ATC,5,10,14,Coward,Edward Graham,,,,,29,7,1943,NC Aviation Cadet Corps,Cross motif,Granite,Plaque,East/West,No,,,//,7/29/1943,1943,,m
 ATC,5,10,15,Coward,John Holiday,,5,10,1887,31,3,1947,,,Granite,slab,East/West,,part of family plot,,10/5/1887,3/31/1947,60,,m
 ATC,5,6,5,Griffin,Pete Alston Elmo,,29,9,1905,17,2,1960,,,Granite,Plaque,East/West,No,,,9/29/1905,2/17/1960,55,,m
 ATC,5,6,6,Griffin,Ida,Spouse Lonnie Griffin,19,7,1874,21,9,1954,At Rest,,Marble,vault,East/West,No,,,7/19/1874,9/21/1954,80,,f
@@ -359,24 +324,19 @@ ATC,5,12,1,Manning ,,Parents J.H. & Mary Manning,14,9,1899,14,9,1899,,Gone to be
 ATC,5,12,2,Manning,Mary S.,,20,4,1882,18,2,1953,Beyond life's gateway,shaking hands,Marble,,East/West,No,,,4/20/1882,2/18/1953,71,,f
 ATC,5,12,3,Manning,J. Henry,,20,11,1867,19,12,1932,His dear memory serves to make our goodness strong,anchor motif & indian head,Marble,,East/West,No,,,11/20/1867,12/19/1932,65,,
 ATC,5,12,4,Manning,Walter C. ,Parents J.H. & Mary Manning,25,9,1905,24,5,1906,,cross motif,Marble,,East/West,No,,,9/25/1905,5/24/1906,1,,m
-ATC,5,12,5,,,,,,,,3,,I sleep in Jesus,,Marble,,East/West,No,,,//,3//,0,,
 ATC,5,12,6,Ellis,Azor,,4,9,1874,24,6,1959,,,Granite,Plaque,East/West,,,,9/4/1874,6/24/1959,85,,
 ATC,5,12,7,Ellis,Mollie W.,,1,12,1874,30,7,1969,,,Granite,Plaque,East/West,No,,,12/1/1874,7/30/1969,95,,f
 ATC,5,14,11,Edwards,E.S.,Spouse Sarah C. Edwards,,,1854,,,1935,Father,floral motif,Marble,vault,East/West,No,,,//1854,//1935,81,,
 ATC,5,14,12,Edwards,Sarah C.,Spouse E.S. Edwards,,,1857,,,1906,Mother,floral motif,Marble,vault,East/West,No,,,//1857,//1906,49,,f
 ATC,9,1,1,Wooten,Clifton Earl,Spouse - Betty Lou Newell,11,8,1939,5,10,2010,His work was never done,dove pair with together forever,Granite,vault,East/West,,shared with spouse,,8/11/1939,10/5/2010,71,,m
 ATC,9,1,15,Murray,Cora Anne,,4,6,1938,22,3,1986,""" is servant of the lord/ Psalms 32.8""",Floral motif,Granite,,East/West,No,,,6/4/1938,3/22/1986,48,,f
-ATC,9,1,2,Wooten,Betty Lou,Spouse - Clifton Earl,16,12,1939,,,,,"Dove pair with ""together forever""",Granite,vault,East/West,No,shared vault with spouse,,12/16/1939,//,-1939,,f
 ATC,9,1,16,Whitley,Martha J.,Spouse of Byrum E. (asssumed),8,8,1930,2,5,1991,"""In God's care""",open book and floral motif,Granite,,East/West,No,,,8/8/1930,5/2/1991,61,,f
 ATC,8,8,1,Cox,Nellie Lucille,,14,6,1920,5,12,1923,An angel visited our home and took the flower away ,,Granite,,East/West,,Family plot,,6/14/1920,12/5/1923,3,,f
 ATC,9,1,3,Wooten,Danny Lee,Parents - Clifton Earl & Betty Lou,27,4,1964,26,12,2015,"Just like his dad, his work was never done",dog motif,Granite,vault,East/West,No,,,4/27/1964,12/26/2015,51,,m
-ATC,9,1,4,Stocks,Hattie Bailey,Spouse - Elbert Lee,21,7,1930,,,,,,Granite,,East/West,No,shared with spouse,,7/21/1930,//,-1930,,f
 ATC,8,8,26,Jones,Aulcy,,4,5,1897,26,11,1915,Father CPL. 119 Inf. 30 Div,Cross in circle,Granite,Plaque,East/West,,Family Plot,,5/4/1897,11/26/1915,18,,
 ATC,8,8,27,Jones,Jessie Branch,,3,4,1933,29,6,1992,,Cross,Granite,Plaque,East/West,,Family Plot,,4/3/1933,6/29/1992,59,,f
 ATC,9,1,5,Stocks,Elbert Lee,Spouse - Hattie Bailey,10,9,1927,3,2,1987,,,Granite,,East/West,No,shared with spouse,,9/10/1927,2/3/1987,60,,m
-ATC,9,1,17,Whitley,Byrum E.,Spouse of Martha J. (assumed),5,3,1928,,,,"""In God's care""",Open book with Foral motif,Granite,,East/West,No,Shared with spouse,,3/5/1928,//,-1928,,
 ATC,8,8,2,Cox,Nora C.,,5,2,1888,14,1,1958,"She was a kind affectionate wife, a fond mother and a friend to all",,Granite,,East/West,,Family plot,,2/5/1888,1/14/1958,70,,f
-ATC,9,1,6,Stocks,Joyce Craft,,10,10,1935,,,,"Thy life was beauty, truth, goodness and love (on family marker)",Christ figure statue,Marble,Plaque,East/West,No,,,10/10/1935,//,-1935,,f
 ATC,8,8,28,Jones,Betty Lou S.,,,,1934,,,2003,S.G. Wilkerson & Sons,,Metal,Plaque,East/West,,Family plot,,//1934,//2003,69,,f
 ATC,9,1,18,Tripp,Ruth Wood,Spouse of Elmer H.,20,2,1931,17,10,2011,"""Mother""",Scroll and Floral motif,Granite,Plaque and Headstone,East/West,,Shared headstone,,2/20/1931,10/17/2011,80,,f
 ATC,9,1,7,Stocks,Jessie Warren,,25,11,1927,30,10,1987,"Thy life was beauty, truth, goodness and love (on family marker)",Christ figure statue,Marble,Plaque,East/West,No,,,11/25/1927,10/30/1987,60,,f
@@ -400,7 +360,6 @@ ATC,8,8,31,Heinle,Arthur K,Parents: Cebe L. Kellum,22,10,1965,21,3,1992,In gods 
 ATC,9,1,22,Hardy,Celestine H.,,3,8,1946,14,12,2014,"""You will be in our hearts forever""",Portrait and Floral motif,Granite,Plaque,East/West,,,,8/3/1946,12/14/2014,68,,f
 ATC,8,5,3,Sumrell,Alexander Lillington,,3,7,1877,2,12,1937,,,Granite,Plaque,East/West,,Sumrell Family Plot,,7/3/1877,12/2/1937,60,,m
 ATC,9,1,13,White,Hollon E.,Spouse - Ernest L.,7,7,1912,11,10,1997,"Wed Dec. 23, 1943","Heart shape, rose motif",Granite,,East/West,No,,,7/7/1912,10/11/1997,85,,
-ATC,8,8,32,Kellum,Cebe L.,,21,1,1938,,,,In gods care,Flowers,Granite,,East/West,,Shared grave,,1/21/1938,//,-1938,,
 ATC,9,1,23,Quinery,Evelyn,,13,12,1925,19,2,2010,,Candle and book motif,Granite,Plaque,East/West,,,,12/13/1925,2/19/2010,85,,f
 ATC,9,1,14,White ,Ernest L.,Spouse - Hollon E.,22,8,1912,11,2,1987,"Wed Dec. 23, 1943","Heart Shape, Rose motif",Granite,,East/West,No,,,8/22/1912,2/11/1987,75,,m
 ATC,8,4,18,Jones,J. Robert ,Mr. and Mrs J.E Jones,25,12,1877,16,1,1932,"""His wits and Life of Services"" ",,Granite,,East/West,,,,12/25/1877,1/16/1932,55,,
@@ -417,7 +376,6 @@ ATC,9,1,30,Worthington,Jayne N.,Spouse of F. Douglas,18,8,1940,15,7,1993,,Floral
 ATC,8,5,5,Easterlin,Eleanor Laura,Dau. of. W.E. 8 M.A. Easterlin,22,2,1916,22,3,1921,Illegible ,lamb,Marble,Headstone,East/West,,,,2/22/1916,3/22/1921,5,,f
 ATC,8,4,20,Jones,Edward,,20,9,1876,3,6,1963,,,Granite,,East/West,,,,9/20/1876,6/3/1963,87,,m
 ATC,9,1,31,Worthington,F. Douglas,Spouse of Jayne N.,7,2,1936,7,2,2017,,Floral Motif,Granite,,East/West,,,,2/7/1936,2/7/2017,81,,
-ATC,8,4,4,Sullivan,Vance L.,,29,4,1941,,,,Together Forever,Birds on branches,Granite,bench design,East/West,,Shared plot,,4/29/1941,//,-1941,,m
 ATC,9,1,32,Corbett,Elva P.,Spouse of Cecil E.,27,5,1931,25,8,2018,,"Prayer hands, open book and Floral motif",Granite,,East/West,,,,5/27/1931,8/25/2018,87,,f
 ATC,9,1,33,Corbett,Cecil E.,Spouse of Elva P/,25,7,1936,17,1,1993,,"Prayer hands, open book and floral motif",Granite,,East/West,,,,7/25/1936,1/17/1993,57,,m
 ATC,8,5,6,Easterlin,Edward Earl,,2,3,1919,18,5,1986,TEC 5 US ARMY World War II,Cross in circle,Marble,Plaque,East/West,,,,3/2/1919,5/18/1986,67,,m
@@ -430,7 +388,6 @@ ATC,9,1,38,Chauncey,Lois H.,Spouse of Tillman G.,27,8,1922,6,7,199,,Floral motif
 ATC,8,4,21,Little,Thomas Fetcher,,12,10,1935,4,10,1937,"""Budded on Edrh to bloom in Heaven"" ",Lamb Statue,Marble,,East/West,,,,10/12/1935,10/4/1937,2,,m
 ATC,9,1,39,Chauncey,Tillman G.,Spouse of Lois H.,8,8,1920,20,10,1999,,Floral motif,Granite,,East/West,,shared,,8/8/1920,10/20/1999,79,,m
 ATC,8,5,7,Harper,William B,,,,1851,,,1921,,art deco design?,Granite,Headstone,East/West,Yes,,,//1851,//1921,70,,m
-ATC,9,2,28,Avery,Goldie H.,Spouse of Bo Ray Avery,27,12,1933,,,,,"Flower motif with bells, ""wed April 29th, 1955""",Granite,Headstone,East/West,,,,12/27/1933,//,-1933,,f
 ATC,9,2,29,Cleaton,Harry Thomas,Spouse of Lois Tyson Cleaton,19,4,1924,28,11,1933,,"Flowers with sunray motif, flowers with wedding bands ""June 27, 1947"" ",Granite,Obelisk,East/West,Yes,US Army WW1 Footstone,,4/19/1924,11/28/1933,9,,m
 ATC,8,4,22,Jones,Rosa Little Cook ,,30,9,1908,24,11,2008,,,Granite,,East/West,,,,9/30/1908,11/24/2008,100,,f
 ATC,8,6,1,Padley,Burnell W.,Spouse of Joseph L. Padley,25,4,1924,23,5,2002,"""We will meet again""","Flower urn, wedding bands ""Wed march 25, 1955""",Granite,Headstone,East/West,No,,,4/25/1924,5/23/2002,78,,m
@@ -440,7 +397,6 @@ ATC,9,2,31,Wiggins,Roy C.,Spouse of Bernice M.,14,4,1922,20,5,2002,"""In loving 
 ATC,8,5,8,Harper,Mary Ann,,,,1856,,,1927,,Art deco lines,Granite,Headstone,East/West,,,,//1856,//1927,71,,f
 ATC,8,8,7,Cox,Elenore Grace,,4,10,1920,17,1,1931,,,Granite,,East/West,,Family plot,,10/4/1920,1/17/1931,11,,f
 ATC,9,2,32,Wiggins,Bernice M.,Spouse of Roy C. Wiggins,8,11,1921,29,2,2016,"""In loving memory""",Flowers and cross motif,Granite,Headstone,East/West,No,,,11/8/1921,2/29/2016,95,,f
-ATC,9,2,35,Craft,Blake S.,,,,,,,,"""On god's team in heaven"" ","Baseball and bat, football and helmet, ""64""",Granite,Headstone,East/West,No,,,//,//,0,,m
 ATC,8,4,23,Forish ,Stephen T,husband of Jesse Jones Forish ,5,7,1909,11,11,1940,,Floral Motif,Granite,,East/West,,,,7/5/1909,11/11/1940,31,,m
 ATC,8,4,9,House,(Illegible),(Son of) William L. & Fonnie House,25,10,1718,14,6,1919,(Illegible),Lamb Motif,Marble,,East/West,,,,10/25/1718,6/14/1919,201,,m
 ATC,8,8,8,Cox,Jimmy Lee,,26,10,1934,30,10,1934,,,Granite,,East/West,,Family plot,,10/26/1934,10/30/1934,0,,m
@@ -454,13 +410,11 @@ ATC,8,6,2,Padley,Joseph L. Jr.,Burnell W. Padley,31,3,1925,4,4,1991,"""We will m
 ATC,9,2,18,Webb,Herman Allen,Spouse of Dorris S. Webb,9,1,1945,2,7,2022,,Flower Motif,Granite,Headstone,East/West,No,,,1/9/1945,7/2/2022,77,,m
 ATC,9,2,19,Webb,Dorris S.,Herman Allen Webb,15,1,1933,31,1,2003,,Flower motif,Granite,Headstone,East/West,No,,,1/15/1933,1/31/2003,70,,f
 ATC,8,4,25,Padley,Betty V. ,,20,11,1892,23,6,1983,,,Granite,,East/West,,,,11/20/1892,6/23/1983,91,,f
-ATC,9,2,33,Holland,"Barbara Buck ""Bobbi""",,19,2,1940,,,,,"Hands praying motif, book motif",Granite,,East/West,,,,2/19/1940,//,-1940,,f
 ATC,8,5,6,Myers,Patricia Lyon,,24,7,1928,30,11,2005,,Books,Granite,Plaque,East/West,,Lyon Family Plot,,7/24/1928,11/30/2005,77,,f
 ATC,9,2,20,Carmon,John Robert,,13,12,1925,29,8,1987,,CPL US Marine Corps WWII Korea with Cross,Metal,Plaque,East/West,No,,,12/13/1925,8/29/1987,62,,m
 ATC,8,4,10,McLawhorn,Fonnie,,17,3,1878,30,4,1939,,,Granite,,East/West,,,,3/17/1878,4/30/1939,61,,
 ATC,8,8,9,Cox,Mamie H.,,9,5,1895,2,2,1977,,,Granite,,East/West,,Family plot,,5/9/1895,2/2/1977,82,,f
 ATC,8,4,26,Padley ,Joseph L. ,,6,10,1879,28,3,1934,"""He was a kind husband & Father"" ",,Granite,,East/West,,,,10/6/1879,3/28/1934,55,,m
-ATC,9,2,5,Buck,John Richard,Spouse: Patricia Stroud Buck,7,10,1947,,,Alive,n/a,Flowers,Granite,,East/West,No,,,10/7/1947,//Alive,#VALUE!,,m
 ATC,9,2,21,Crawley,James Williams Jr.,Spouse of Claudia Chavis Crawley,3,7,1913,19,4,188,"""Married Dec 13, 1938""",Peace Lilies,Granite,Headstone,East/West,No,,,7/3/1913,4/19/188,-1725,,m
 ATC,8,5,11,Lyon,Pearl D.,,29,11,1894,15,12,1979,,,Granite,Plaque,East/West,,Lyon Family Plot,,11/29/1894,12/15/1979,85,,f
 ATC,9,2,6,Buck,Patricia Stroud ,Spouse: John Richard,20,4,1949,7,8,1985,,Flowers,Granite,Plaque,East/West,No,,,4/20/1949,8/7/1985,36,,f
@@ -472,7 +426,6 @@ ATC,8,5,12,Lyon,Wilbur L,,3,9,1894,25,2,1957,,,Granite,Plaque,East/West,,Lyon Fa
 ATC,9,2,11,Booth,Rebecca H.,,3,3,1918,26,5,2013,N/A,N/A,Granite,Plaque,East/West,No,,,3/3/1918,5/26/2013,95,,f
 ATC,9,2,7,Cowan,Caleb Linsey,,3,2,1998,24,1,2012,"Know by many, loved by all, quiet and sweat, beautiful and perfect. We will remember you as a loyal and forever lasting son, brother, grandson, great-grandson, and friends","Epitaph ""Handwritten"" on a spiral notebook with a butterfly, butterfly, poloroid picture with ""Caleb' 12"", fake flowers",Granite,,East/West,,,,2/3/1998,1/24/2012,14,,m
 ATC,8,5,13,Haney,Evelyn Lyon ,,14,11,1922,18,10,1990,,cross,Granite,Plaque,East/West,,Lyon Family Plot,,11/14/1922,10/18/1990,68,,f
-ATC,9,2,12,Hout,John Smith,Frances Booth,N/A,,N/A,N/A,,N/A,,"2 hearts, wedding bands ""Aug 1, 1964"", 2 black urns",Red Granite,Shaped in 2 hearts,East/West,No,,,/N/A/N/A,/N/A/N/A,#VALUE!,,m
 ATC,8,4,28,Vann,John Robert,,2,11,1895,7,3,1973,"""North Carolina PTR2 LLS Naf World War 1""",Cross in Circle Motif,Granite,,East/West,,,,11/2/1895,3/7/1973,78,,m
 ATC,9,2,34,"Holland, Sr.",William S.,,17,10,1934,12,5,2002,,"Praying hands motif, book motif",Granite,,East/West,Yes,"footstone engraving: cross motif, ""PCF US Navy""",,10/17/1934,5/12/2002,68,,m
 ATC,8,8,10,Cox,Marvin Lester,,28,11,1892,7,11,1968,,,Granite,,East/West,,Family plot,,11/28/1892,11/7/1968,76,,m
@@ -494,7 +447,6 @@ ATC,9,2,27,Avery,B. Ray,"Spouse, Goldie H. Avery",30,11,1930,21,12,1993,,"Flower
 ATC,8,5,16,Dixon,Julia Ann,,11,7,1929,10,9,1930,At rest,illegible,Marble,Diamond,East/West,,,,7/11/1929,9/10/1930,1,,f
 ATC,9,3,10,Cox,Christine C,,16,10,1934,6,7,2021,,wedding hands engraving,Granite,,East/West,,,,10/16/1934,7/6/2021,87,,f
 ATC,9,3,11,Cox,Dalton Paul,,16,4,1930,16,2,2013,,Wedding hands motif,Granite,,East/West,,,,4/16/1930,2/16/2013,83,,m
-ATC,9,3,14,Cox,Neuie E,,19,10,1931,,,,"""His strength will see us through""",Dove and floral motif,black granite,,East/West,,,,10/19/1931,//,-1931,,
 ATC,8,4,11,House,William L.,,23,4,1868,11,2,1936,,,Granite,,East/West,,,,4/23/1868,2/11/1936,68,,m
 ATC,8,8,13,Harrington,Joseph Boyce,,24,10,1927,7,12,1978,Thy will be done,,Granite,,East/West,,Family plot,,10/24/1927,12/7/1978,51,,m
 ATC,9,3,15,Cox,Delano R,,17,3,1933,3,9,1988,"""His strength will see us through""",Dove and floral motif,black granite,,East/West,,,,3/17/1933,9/3/1988,55,,m
@@ -502,12 +454,9 @@ ATC,9,3,18,Worthington,Alma Y,,8,6,1929,15,2,2006,,Book motif,Granite,,East/West
 ATC,8,5,17,Dixon,George Grady II,,21,2,1931,8,5,1994,"US Army, Korea",cross,Marble,Headstone,East/West,,Dixon family plot,,2/21/1931,5/8/1994,63,,m
 ATC,9,3,19,Worthington,Alton,,28,9,1929,25,6,2001,,Book motif,Granite,,East/West,,,,9/28/1929,6/25/2001,72,,m
 ATC,8,8,20,Clagon,S. M.,,6,12,1864,4,12,1935,,,Marble,,East/West,,,,12/6/1864,12/4/1935,71,,
-ATC,9,3,21,Cannon,Peggy Wingate,,11,12,1939,,,,"""Saved by grace""",Cross motif,,,East/West,,,,12/11/1939,//,-1939,,f
-ATC,9,3,22,Cannon,Douglas Randolph,,11,12,1935,,,,"""Saved by grace""",cross motif,,,East/West,,,,12/11/1935,//,-1935,,m
 ATC,8,8,14,Cox,Simon Woodrow,,29,7,1932,29,12,1961,"Gone, but not forgotten",,Granite,,East/West,,Family plot,,7/29/1932,12/29/1961,29,,m
 ATC,9,3,25,McLawhorn,Eona Earl,,5,11,1925,7,7,2011,,Ring motif,Granite,,East/West,,,,11/5/1925,7/7/2011,86,,
 ATC,8,8,21,McLawhorn,Mary,Spouse: W. J. Branch,19,6,1869,21,10,1954,A loving mother & a faithful friend,Flowers and leaves,Granite,,East/West,,Family plot,,6/19/1869,10/21/1954,85,,f
-ATC,8,4,12,Jackson Jr.,Joseph F.,,,,,1,2,1951,,,Granite,,East/West,,,,//,2/1/1951,1951,,m
 ATC,9,3,26,McLawhorn,F. Mitchkill,,3,1,1920,25,4,1990,,"Floral motif, ring motif",Granite,,East/West,,,,1/3/1920,4/25/1990,70,,
 ATC,8,5,18,Dixon,Juliana Elliot,,22,1,1898,27,11,1972,,"flowers, clover triangle ",Marble,Vault,East/West,,Dixon family plot ,,1/22/1898,11/27/1972,74,,f
 ATC,8,8,22,Jones,Betty S.,,13,1,1934,19,11,2003,,Book and flowers,Granite,,East/West,,"Family plot, shared grave",,1/13/1934,11/19/2003,69,,f
@@ -528,11 +477,9 @@ ATC,8,8,16,Worthington,Robert,,8,5,1866,10,5,1943,"His toils are past, his work 
 ATC,9,3,5,Williams,Tami Haddock ,,2,7,1959,19,12,1996,"""Blessed be the pure heart for thee shall see god ",Floral Motif,Granite,,East/West,,,,7/2/1959,12/19/1996,37,,f
 ATC,9,3,6,Phillps,William Edwards,,5,12,1928,11,4,2014,"""SGT US Army Korea"" ",Cross Engraving ,Granite,,East/West,,,,12/5/1928,4/11/2014,86,,m
 ATC,8,5,20,Dixon,Mary Elizabeth Kaiser ,,12,4,12933,7,9,2005,,Flowers ,Marble,vault,East/West,,Dixon family plot ,,4/12/12933,9/7/2005,-10928,,f
-ATC,9,3,7,Phillips,Lena T. ,,15,4,1930,,,,,,Granite,,East/West,,,,4/15/1930,//,-1930,,f
 ATC,9,4,1,Lister,Andrew Nicholas,,8,12,1993,16,11,2013,Forever in our hearts Beloved son & Brother,"Cross, music notes on flower vase",Granite,,East/West,,,,12/8/1993,11/16/2013,20,,m
 ATC,8,4,14,Brooks,Edmond,,29,9,1894,30,8,1951,,Leaf Motif,Granite,,East/West,,,,9/29/1894,8/30/1951,57,,m
 ATC,8,8,17,Rice,Amanda Lorena,Spouse of Seth Harvey and Robert Worthington,13,9,1877,23,11,1945,In memory of,,Granite,Obelisk,East/West,,Family plot,,9/13/1877,11/23/1945,68,,f
-ATC,9,4,3,Sullivan,Josette B.,,20,5,1941,,,,Together Forever,Birds on branches,Granite,bench design,East/West,,Shared grave,,5/20/1941,//,-1941,,f
 ATC,9,4,7,Craft,Nora Lee,,25,10,1926,12,4,2000,,Book & flowers,Granite,,East/West,,Shared grave,,10/25/1926,4/12/2000,74,,f
 ATC,8,5,21,Dixon,John Elliott,,29,5,1933,1,11,1993,,"Staff of Hermes (medical symbol), flowers ",Marble,vault,East/West,,Dixon family plot,,5/29/1933,11/1/1993,60,,m
 ATC,9,4,8,Craft,Thomas L. Jr.,,12,10,1925,9,2,2014,,Book & flower,Granite,,East/West,,Shared grave,,10/12/1925,2/9/2014,89,,m
@@ -549,7 +496,6 @@ ATC,8,4,15,Griffin,Dolphius,,7,12,1866,26,9,1952,,Handshake motif,Granite,,East/
 ATC,9,4,20,Hines,Irene W.,,19,8,1922,7,12,2018,,,Granite,,East/West,,Shared grave,,8/19/1922,12/7/2018,96,,f
 ATC,9,4,21,Hines,Walter Morris,,15,9,1920,25,3,2002,,,Granite,,East/West,,Shared grave,,9/15/1920,3/25/2002,82,,m
 ATC,9,4,24,Tucker,Virginia D.,,30,11,1938,18,11,1993,"Wife, Wed. Apr. 10, 1956",,Granite,,East/West,,Shared grave,,11/30/1938,11/18/1993,55,,f
-ATC,9,4,25,Tucker,Wade D.,,23,10,1935,,,,"Husband, Wed. Apr. 10, 1956",,Granite,,East/West,,Shared grave,,10/23/1935,//,-1935,,m
 ATC,9,4,26,Letchworth,Nancy Gordon,,29,8,1957,24,4,1992,Angel at rest,,Granite,Plaque,East/West,,,,8/29/1957,4/24/1992,35,,f
 ATC,9,4,27,Anning,David Michael Jr.,,31,3,1972,6,10,1977,God's little lion,Child praying,Granite,,East/West,,,,3/31/1972,10/6/1977,5,,m
 ATC,9,4,31,Stocks,Gladys Bullock,,23,8,1903,27,8,1992,Into thy hands I command my spirit,Flowers,Granite,,East/West,,Shared grave,,8/23/1903,8/27/1992,89,,f
@@ -560,7 +506,6 @@ ATC,9,3,20,Hines,Kenneth Ray,N/A,6,4,1943,25,10,1988,N/A,N/A,Granite,Headstone,E
 ATC,9,5,4,Haddock,Bruce E.,,3,10,1928,27,2,2009,"The Lord is my Shepard, I shall not want.","Urn with pink, white flowers",Granite,Headstone,East/West,No,,,10/3/1928,2/27/2009,81,,m
 ATC,8,8,33,Mumford,Jesse,,8,11,1856,1,12,1937,,,Granite,Headstone,East/West,No,,,11/8/1856,12/1/1937,81,,m
 ATC,9,3,23,Jolly,Jane 'Jean',N/A,9,6,1919,7,7,2002,N/A,Flowers,Granite,Headstone,East/West,No,N/A,,6/9/1919,7/7/2002,83,,f
-ATC,9,5,5,Yeomans,Judy Edwards,Wife of Samuel Floyd Sr.,30,3,1985,,,,"In God's care; married Jan 8, 1978",flowers,Granite,Headstone,East/West,No,She is still alive,,3/30/1985,//,-1985,,f
 ATC,9,4,1,Dail,Susan E,,,,1867,,,1942,,floral motif; family plot,Granite,Headstone,East/West,No,,,//1867,//1942,75,,f
 ATC,9,5,1,Daugherty,Malcom Scott,,21,4,1964,27,10,2001,"Until we meet again, to part no more ",waterskiing picture,Granite,Plaque,East/West,No,,,4/21/1964,10/27/2001,37,,m
 ATC,8,8,34,Mumford,Annie Mills,,15,10,1866,5,6,1938,,,Granite,Headstone,East/West,No,,,10/15/1866,6/5/1938,72,,f
@@ -572,13 +517,11 @@ ATC,8,4,2,Dail,R. Dickerson,,,,1856,,,1941,,floral motif; family plot,Granite,He
 ATC,9,5,14,Carman,Donald Willis,,13,8,1941,16,4,2003,,Men blowing trumpet,Marble,Headstone,East/West,No,,,8/13/1941,4/16/2003,62,,m
 ATC,9,3,27,Gipson,Paul Leon SR.,N/A,8,11,1922,15,2,1993,"ACK, US Marine Corps, World War II, father","Cross, flowers",Granite,Plaque,East/West,No,N/A,,11/8/1922,2/15/1993,71,,m
 ATC,8,7,8,Cox,Sebron,,23,10,1852,11,10,1939,,,Granite,Plaque,East/West,No,,,10/23/1852,10/11/1939,87,,
-ATC,9,5,10,Guinn,Mattie R.,Wife of Ernest B.,31,10,1926,,,,In loving memory,pray hands + flowers,Granite,Headstone,East/West,No,,,10/31/1926,//,-1926,,f
 ATC,9,4,2,Sullivan,Ricky Lee,,26,4,1961,13,11,2012,CPI US ARMY LOVING FATHER,CROSS,Marble,Headstone,East/West,No,,,4/26/1961,11/13/2012,51,,m
 ATC,9,5,16,Phillips,Dorothy Smith,,6,5,1955,11,10,2007, In loving memory,"linked wings, flowers, June 15th 1985",Granite,Plaque,East/West,No,,,5/6/1955,10/11/2007,52,,f
 ATC,8,4,3,"Tripp, Jr.",Levi R.,,21,10,1929,23,6,1937,,,Granite,Headstone,East/West,No,,,10/21/1929,6/23/1937,8,,m
 ATC,9,3,28,Gipson,Mary Hart,N/A,15,12,1927,13,10,1997,Beloved wife & mother,"cross in circle, flowers",Granite,Plaque,East/West,No,N/A,,12/15/1927,10/13/1997,70,,f
 ATC,,7,9,Edwards,William C.,,21,10,1867,24,12,1921,,mason crest,,,,,,,10/21/1867,12/24/1921,54,,m
-ATC,9,4,5,McClamb,Bess T.,,30,8,1935,,,,The Lord is my Sheperd,,Granite,Headstone,,,,,8/30/1935,//,-1935,,f
 ATC,9,5,11,Guinn,Ernest B. Jr.,Husband of Mattie R. Guinn,7,6,1928,10,9,2003,In loving memory,flowers,Granite,Headstone,East/West,No,,,6/7/1928,9/10/2003,75,,m
 ATC,9,4,33,Stocks,Billy Lee,Son of Mr. & Mrs. Stocks,17,3,1940,5,5,1951,Sweetly Sleeping,"Lamb, flowers",Marble,Headstone,East/West,No,N/A,,3/17/1940,5/5/1951,11,,m
 ATC,8,7,10,Edwards,Emma Lee,,7,12,1878,26,2,1931,A tender mother and a faithful friend,,Marble,Headstone,East/West,,family plot,,12/7/1878,2/26/1931,53,,f
@@ -586,11 +529,8 @@ ATC,8,4,4,Tripp,Nancy D,,26,9,1873,15,10,1952,,,Granite,Headstone,East/West,No,,
 ATC,9,5,15,Carman,John Willis,,,,1967,,,2023,CO Hilkerson & Sons (Funeral home),Wreath,Metal,Plaque,East/West,No,,,//1967,//2023,56,,m
 ATC,9,5,18,,Priscilla,,,,1971,,,2012,In memory / mom / Loved by all,,Granite,Headstone,East/West,No,,,//1971,//2012,41,,f
 ATC,9,4,6,McLamb,O. Wade,,15,5,1931,15,8,1993,,Military Plaque at feet.,Granite,Headstone,East/West,,,,5/15/1931,8/15/1993,62,,
-ATC,8,7,11,illegible,illegible,,,,,31,1,1905,,,Marble,Headstone,East/West,,,,//,1/31/1905,1905,,
 ATC,8,4,5,"Tripp, Sr.",Levi R,,22,10,1889,21,1,1964,,,Granite,Headstone,East/West,No,,,10/22/1889,1/21/1964,75,,m
-ATC,9,5,17,Phillips,Tommy Douglas,Dorothy Smith Phillips,22,6,1964,,,,In loving memory,floral engraving and carved depiction of wedding rings,Granite,Plaque,East/West,No,shares a grave with Dorothy Smith Phillips,,6/22/1964,//,-1964,,m
 ATC,9,4,35,Mills,Robert Lee SR.,N/A,,,1921,,,1986,"A Devoted father, Wedded March 7, 1942","book, flowers, connected wedding rings",Pink Granite,Headstone,East/West,No,N/A,,//1921,//1986,65,,m
-ATC,9,6,1,McLawhorn,Joyce Byrum,Wife of Billy Powell,26,11,1939,,,,A happy memory is a joy forever,"flowers, angels (stone), wedding rings",Granite,Headstone,East/West,No,,,11/26/1939,//,-1939,,f
 ATC,9,4,9,Kinlaw,Ocea P.,,10,10,1919,30,1,1997,,Praying hands,Granite,Headstone,East/West,,,,10/10/1919,1/30/1997,78,,
 ATC,9,5,20,Bowen,Thomas Ashford (Tombo),,4,2,1938,2,2,2012,For whosoever shall call upon the name of the Lord shall be saved. Romans 10:13,"Urn, purple and orange flowers",Granite,,East/West,No,,,2/4/1938,2/2/2012,74,,m
 ATC,8,7,12,Forrest,Evelyn Louise,,18,6,1928,30,10,2021,"""mother""",floral motif,Granite,Headstone,East/West,,,,6/18/1928,10/30/2021,93,,f
@@ -603,10 +543,8 @@ ATC,9,6,7,Russel,Robert N.,,24,12,1983,4,9,2010,"Beloved husband, father, son, u
 ATC,9,4,14,Hill,Helen Cox,,12,5,1925,12,4,1992,Marriod Mar 6 1943,,Granite,Headstone,East/West,No,,,5/12/1925,4/12/1992,67,,f
 ATC,9,6,6,Junior,Fred G.,Ruth (Spouse),16,9,1929,9,7,2016,,American flag,Granite,,East/West,No,,,9/16/1929,7/9/2016,87,,m
 ATC,8,7,12,Forrest,Katie R.,wife of D.R. Forrest,18,8,1899,23,3,1931,,,Granite,Headstone,East/West,,family plot,,8/18/1899,3/23/1931,32,,f
-ATC,8,4,7,Tripp,Videau Joyner,,24,12,1934,,,,,cross motif,Granite,Headstone,East/West,No,,,12/24/1934,//,-1934,,
 ATC,8,7,2,Clark,Weeks H.,N/A,,,1845,,,1903,"""2. Lieutenant. , 67NC INF CSA""",Circle with a cross inside of it,Marble,,,,Parts of the form were blank.,,//1845,//1903,58,,
 ATC,9,6,8,Russell,"Ryan David ""Doc""",Brother of Robert Russell,11,6,1966,5,3,2007,Greater love hath no man than this. That a man lay down his life for his friends John 15:13,Medals engraved,Granite,Headstone,East/West,Yes,,,6/11/1966,3/5/2007,41,,m
-ATC,4,4,15,Hill,Lloyd Simmons,,17,6,1922,,,,Married Mar 6 1943,,Granite,Headstone,East/West,No,,,6/17/1922,//,-1922,,m
 ATC,8,7,13,Forrest,D.R.,husband of Katie R.,17,7,1890,25,3,1950,,,Granite,Headstone,East/West,,family plot,,7/17/1890,3/25/1950,60,,m
 ATC,9,6,13,Hardee,"Donald ""Gray""",,10,4,1959,21,3,2008,In loving memory of,"flowers, hands + cross engraved",Granite,Plaque,East/West,No,,,4/10/1959,3/21/2008,49,,m
 ATC,8,7,3,Tyson,Winnie C.,N/A,17,8,1881,5,9,1965,"""Gone but not forgotten""",Floral motif,Granite,Headstone,,,Parts of the form were blank,,8/17/1881,9/5/1965,84,,f
@@ -616,15 +554,10 @@ ATC,9,6,11,Dail,Ruby Lee,,29,11,1929,4,11,2001,You will always be in our hearts,
 ATC,8,7,14,Langston,Lillie G,,15,8,1905,18,2,1945,,,Granite,Headstone,East/West,,,,8/15/1905,2/18/1945,40,,f
 ATC,9,4,18,Potter,Sylvia Heath,,3,2,1939,3,3,1994,"Mama, Gigi, June 21 1955",,Granite,Headstone,East/West,No,,,2/3/1939,3/3/1994,55,,f
 ATC,8,5,24,Smith,Marvin Earl,,15,4,1908,26,2,2005,Gone home,flowers,Granite,Headstone,East/West,No,,,4/15/1908,2/26/2005,97,,m
-ATC,9,4,19,Potter,Raymond West,,25,2,1938,,,,"Daddy, Papa.",,Granite,Headstone,East/West,No,,,2/25/1938,//,-1938,,m
-ATC,9,6,19,Baines,Shirley Mae Jones,Wife of Claudius Earl Jr.,8,11,1937,,,,Promise me you won't be sad but treasure the little time we had,flower / flames / pray hands,Granite,vault,East/West,No,,,11/8/1937,//,-1937,,f
 ATC,8,7,15,Sumrell,Nannie Jolley,,17,1,1885,23,12,1953,,,Marble,Headstone,East/West,No,,,1/17/1885,12/23/1953,68,,f
 ATC,8,7,4,Tyson,Samuel W.,Sharing a grave with Winnie C. Tyson (Spouse),15,5,1866,1939,11,1939,"""gone but not forgotten""",Floral Motif,Granite,Headstone,,,Sharing a grave with Winnie C. Tyson,,5/15/1866,11/1939/1939,73,,m
-ATC,9,6,17,Bowen,Carol Benson,Wife of Wesley Rogers Bowen ,26,11,1943,,,,,"doves holding rings with date November 26th 1961, flowers",Granite,Plaque,East/West,No,sharing a grave with Wesley Rogers Bowen,,11/26/1943,//,-1943,,f
-ATC,9,6,15,Guinn,Mattie R.,Ernest B. (Husband),,,,,,,In Loving Memory,"Pink, white, and blue flowers",Granite,,East/West,No,,,//,//,0,,f
 ATC,9,4,22,Taylor,FRances Davis,,14,4,1919,14,8,2010,,Cross,Granite,Plaque,East/West,No,,,4/14/1919,8/14/2010,91,,f
 ATC,8,5,25,Jackson,Mary Elizabet,,11,2,1922,2,5,1971,,,Granite,Plaque,East/West,Yes,,,2/11/1922,5/2/1971,49,,f
-ATC,9,6,20,Baines,Claudius Earl Jr.,Husband of Shirley Mae Jones,9,3,1924,,,,Promise me you won't be sad but treasure the little time we had,flower / pray hands / flame,Granite,vault,East/West,No,,,3/9/1924,//,-1924,,m
 ATC,8,7,5,Tyson,Martha S.,N/A,16,6,1922,20,3,1944,N/A,,Granite,Plaque,,,Parts of the form were left blank,,6/16/1922,3/20/1944,22,,f
 ATC,9,4,23,Taylor ,Robert Henry,,24,7,1914,20,8,1991,,,and  Metal,Plaque,East/West,No,,,7/24/1914,8/20/1991,77,,m
 ATC,9,5,2,Adams,Janice F.,Wife of Donald Bruce Adams,17,11,1935,29,8,2015,In loving memory,"praying hands, flower engravings, vase",Granite,Plaque,East/West,No,double grave with Donald Bruce Adams,,11/17/1935,8/29/2015,80,,f
@@ -632,18 +565,13 @@ ATC,9,6,16,Guinn,Ernest B.,Mattie R. (spouse),7,6,1928,10,9,2003,In Loving Memor
 ATC,9,6,23,Persinger,Sarah B.,Wife of David L.,19,10,1939,29,6,2004,"Married Apr. 20, 1959",marriage rings,Granite,Headstone,East/West,Yes,Footstone: David Lee Persinger U.S. Air Force Korea,,10/19/1939,6/29/2004,65,,f
 ATC,8,5,26,Jackson,S.K.,,13,3,1879,16,9,1932,God took him and now he is another link in heaven.,"flowers, mason symbol",Granite,Headstone,East/West,Yes,,,3/13/1879,9/16/1932,53,,
 ATC,8,7,16,Sumrell,Joseph D.,,4,1,1904,2,4,1945,,,Granite,Plaque,East/West,No,,,1/4/1904,4/2/1945,41,,m
-ATC,9,5,3,Adams,Donald Bruce,Husband of Janice F. Adams,19,1,1941,,,,In loving memory,"flower engraving, praying hands, and vase",Granite,Plaque,East/West,No,,,1/19/1941,//,-1941,,m
 ATC,9,4,28,Gordon ,Joyce,,20,8,1929,1,7,2009,Through apart for a white we will meet again,,Granite,Plaque,East/West,No,,,8/20/1929,7/1/2009,80,,f
 ATC,9,6,24,Persinger,David L.,Husband of Sarah B.,9,9,1936,1,9,2004,Married Apr 20 1959,marriage rings,Granite,Headstone,East/West,Yes,Footstone: David Lee Persinger U.S. Air Force Korea,,9/9/1936,9/1/2004,68,,m
 ATC,9,4,29,Gordon,Bill  William Teagle ,,23,7,1927,27,8,1996,,,Granite,and headstone,East/West,No,,,7/23/1927,8/27/1996,69,,m
 ATC,8,7,17,Sumrell,Ethel N.,,15,4,1908,20,4,1976,,,Granite,Plaque,East/West,No,,,4/15/1908,4/20/1976,68,,f
-ATC,8,7,6,,,,,,,,,,,,,,,,"gravestone fallen over, illegible. Family plot",,//,//,0,,
-ATC,9,5,23,Sellars,June Ritchey,Daniel Douglas (husband),,,,,,,Together Beyond the veil,Flower,Granite,Headstone,East/West,No,,,//,//,0,,f
 ATC,8,5,27,Jackson,Katie S.,,14,5,1881,26,5,1964,She hath done what she could for her lord,"flower, mason symbol",Granite,Headstone,East/West,Yes,,,5/14/1881,5/26/1964,83,,f
 ATC,9,5,8,Honeycutt,Janice C.,Our Mother,30,4,1953,10,5,2009,In god's hands,"initial ""H"" , flower engraving, prayer hands ",Granite,Plaque,,Yes,"Footstone : Janice C. Honeycutt, flowers engraving, April 30th 1953, May 10th 2009",,4/30/1953,5/10/2009,56,,f
-ATC,8,7,18,illegible ,illegible,,,,,,,,,,Granite,Headstone,,No,grave knocked over,,//,//,0,,
 ATC,7,2,10,Tynoall,Lemuel Carr,,14,2,1934,21,6,1989,,,Granite,Plaque,East/West,,Parts of the form were left blank,,2/14/1934,6/21/1989,55,,m
-ATC,9,5,24,Sellars,Daniel Douglas,June Ritchey,,,,,,,Together Beyond the Veil,flower,Granite,Headstone,East/West,No,,,//,//,0,,m
 ATC,8,7,7,Cox,Sinda,Wife of Sebron Cox,12,12,1855,3,6,1923,,,"concrete slab, marble plaque",,,Yes,,,12/12/1855,6/3/1923,68,,f
 ATC,7,2,22,Tripp,Sarah L.,,9,3,1855,12,8,1908,,,Granite,Plaque,,No,,,3/9/1855,8/12/1908,53,,f
 ATC,7,2,11,Quinerly,John Wm.,,11,9,1860,5,4,1929,,,Granite,Plaque,East/West,,"Parts of the ""Gravestone Data"" form were left blank",,9/11/1860,4/5/1929,69,,m
@@ -673,30 +601,23 @@ ATC,7,2,6,Bell,Melba Jean,(Daughter of) Helman & Alma Bell,14,10,1927,5,11,1927,
 ATC,9,3,16,Stokes,Iva Paul,,8,12,1901,15,4,1992,"mother, married May 20, 1923","flowers, connected rings",Granite,Headstone,East/West,No,,,12/8/1901,4/15/1992,91,,f
 ATC,7,2,14,Tillery,Katherine,(wife of) William A Quinerly,26,1,1875,7,5,1731,,,Granite,Plaque,East/West,,Parts of the form were left blank,,1/26/1875,5/7/1731,-144,,f
 ATC,7,2,7,Bell,Grover Herman,,20,5,1905,9,10,1952,,,Granite,,East/West,No,,,5/20/1905,10/9/1952,47,,m
-ATC,9,6,3,Daugherty,Billy W.,Husband of Doris C. Daugherty,21,7,1939,,,,Death is only a shadow across the path to heaven,"birds, flower engravings, urns",Granite,Plaque,East/West,No,double grave with Doris C. Daugherty,,7/21/1939,//,-1939,,m
 ATC,7,2,27,Stokes,Faye C.,,30,3,1893,28,6,1980,Mother,,Granite,Plaque,,No,,,3/30/1893,6/28/1980,87,,f
-ATC,7,1,29,Stokes,Huch T,,,,,,,,,,Marble,,East/West,No,,,//,//,0,,
 ATC,9,3,17,Stokes,J. Thomas,,20,12,1901,11,5,1994,"Married May 20, 1923, Father","flowers, connected rings",Granite,Headstone,East/West,No,,,12/20/1901,5/11/1994,93,,
 ATC,7,2,8,Bell,Minnie Alma,,20,6,1906,12,11,1997,,,Granite,,East/West,No,,,6/20/1906,11/12/1997,91,,f
 ATC,7,2,15,Smith,Mary C.,,17,3,1889,15,12,1952,,,Granite,Plaque,East/West,,"Parts of the ""Gravestone Data"" form were left blank",,3/17/1889,12/15/1952,63,,f
 ATC,7,1,30,Stokes,L.B.,,,,1856,,,1925,,,Granite,Plaque,East/West,,,,//1856,//1925,69,,
-ATC,9,6,4,Daugherty,Doris C. ,Wife of Billy W. Daugherty,24,2,1943,,,,Death is only a shadow on the path to heaven,"birds, engraved flowers, urns",Granite,Plaque,East/West,No,Double grave with Billy W. Daugherty,,2/24/1943,//,-1943,,f
 ATC,7,2,9,Bell,Robert Earl,,8,2,1931,10,1,1966,North Carolina S SGT 2(5 Air Force Korea,,Granite,Plaque,East/West,No,,,2/8/1931,1/10/1966,35,,m
 ATC,9,6,21,Merritt,Francis Leroy,Husband of Grace Gaither Merritt,25,5,1919,8,5,2002,November 17th 1943 (marriage date),"crosses, flowers, engagement rings, scrolls",Granite,Plaque,East/West,Yes,"Francis Leroy Merritt, 1st LT US Army World War II Korea, May 25th 1919, May 8th 2002",,5/25/1919,5/8/2002,83,,m
 ATC,7,2,16,Smith,Herman C.,,18,2,1883,5,12,1929,,,Granite,Plaque,East/West,,"Parts of the ""Gravestone Data"" form were left blank",,2/18/1883,12/5/1929,46,,m
 ATC,7,2,28,Stokes ,Haman S,,4,1,1893,28,11,1965,,,Granite,Plaque,,No,,,1/4/1893,11/28/1965,72,,
-ATC,7,1,31,Stokes,Henrietta,,,,1852,,,,,,Granite,Plaque,East/West,,,,//1852,//,-1852,,f
 ATC,7,1,16,Garris ,Grover Edward,,22,2,1924,15,8,2010,,,Granite,Plaque,,No,,,2/22/1924,8/15/2010,86,,m
 ATC,9,6,22,Merritt,Grace Gaither,Wife of Francic Leroy Meritt,9th,10,1918,23,2,2005,November 17th 1943 (Marriage Date),"crosses, flowers, books, engagement rings",Granite,Plaque,East/West,No,double grave with husband Francis Leroy Merritt,,10/9th/1918,2/23/2005,87,,f
 ATC,7,2,17,Smith,Helen B.,,7,3,1912,8,2,1988,,,Granite,Plaque,East/West,,"Parts of the ""Gravestone Data"" form were left blank",,3/7/1912,2/8/1988,76,,f
 ATC,7,1,36,Moore,Guy Lancaster,,14,3,1883,10,1,1958,,,Granite,Plaque,East/West,,,,3/14/1883,1/10/1958,75,,m
 ATC,9,6,9,Giannini,Doris McLawhorn,wife of Richard James Giannini Sr.,19,10,1934,16,8,2008,"together forever, married Oct 1st 1977","flowers, doves with the epitaph",Granite,vault,East/West,No,double grave with Richard James Giannini Sr.,,10/19/1934,8/16/2008,74,,f
 ATC,7,2,18,Smith,Wilbun L.,,18,7,1910,6,1,1977,,,Granite,Plaque,East/West,,"Parts of the ""Gravestone Data"" form were left blank",,7/18/1910,1/6/1977,67,,
-ATC,9,6,25,Avery ,Ernest Ray, Husband of Faye Norris Avery,11,1,1952,,,,Together Forever,prayer hands,Granite,Plaque,East/West,,double grave with with wife Faye Norris Avery,,1/11/1952,//,-1952,,m
 ATC,7,1,19,Green,Marjorle Garris,Wife of Wesly R. Green,2,8,1916,16,11,1984,,,Granite,Plaque,,No,,,8/2/1916,11/16/1984,68,,f
-ATC,9,6,10,Giannini,Richard James Sr.,Husband of Doris McLawhorn Giannini,1,3,1924,,,,"together forever, married October 1st, 1977","navy seal, flowers, doves",Granite,vault,East/West,No,double grave with Doris McLawhorn Giannini,,3/1/1924,//,-1924,,m
 ATC,7,2,19,Manning,Madge B.,,9,8,1733,20,5,2019,,,Granite,Plaque,East/West,,"Parts of the ""Gravestone Data"" form were left blank",,8/9/1733,5/20/2019,286,,f
-ATC,7,1,20,Green,,,20,8,1910,,,,,,Granite,Plaque,,No,,,8/20/1910,//,-1910,,
 ATC,9,6,26,Avery,Faye Norris,Wife of Ernest Ray Avery ,28,2,1955,1,2,2011,Together Forever,prayer hands,Granite,Plaque,East/West,No,double grave with husband Ernesy Ray Avery,,2/28/1955,2/1/2011,56,,f
 ATC,7,2,20,Rower,W. R.,,,,1879,,,1920,,,Granite,Plaque,East/West,,"Parts of the ""Gravestone Data"" form were left blank",,//1879,//1920,41,,
 ATC,9,6,14,Paynter,Vincent J.,,23,1,1929,15,8,2003,TS GT US Air Force Korea ,"Cross, Urns",Granite,Plaque,East/West,,,,1/23/1929,8/15/2003,74,,m
@@ -706,31 +627,24 @@ ATC,9,8,23,Faulkner,Tracy-Dawn Meeks,,18,11,1975,2,6,1999,In God's Care,"Cross, 
 ATC,9,15,21,Webb,Mattie W.,Shared grave with Herman P.,22,9,1924,30,6,2000,,"Book, floral motif",Granite,Headstone,East/West,No,,,9/22/1924,6/30/2000,76,,f
 ATC,10,2,31,Lloyd,Mary leslie,Carroll E. (wife),17,4,1939,16,3,2018,"Married March 1, 1957",angel/flowers,Granite,Headstone,East/West,No,N/A,,4/17/1939,3/16/2018,79,,f
 ATC,9,15,22,Webb,Herman P.,shared grave with Mattie W.,31,10,1915,20,6,1987,,"book, floral motif",Granite,Headstone,East/West,Yes,"Footstone says ""father"" and has a haloed cross and ""Herman Pate Webb CPL US Army World War II Oct 31 1915 Jun 20 1987""",,10/31/1915,6/20/1987,72,,m
-ATC,10,2,32,Lloyd,Carol E,Marly Leslie (Wife),4,7,1936,,,,"Married March 1,1957",angel/flowers,Granite,Headstone,East/West,No,Sharing a grave with Mary Leslie Lloyd,,7/4/1936,//,-1936,,f
 ATC,10,1,10,Williams,Roy Lee,,22,7,1908,1,9,1981,,"pink,blue,yellow flowers, urn",Granite,Headstone,East/West,Yes,,,7/22/1908,9/1/1981,73,,m
 ATC,9,8,29,Carmichael,Alice Bane,"Wife of Clarence ""Mike"" Robert",4,10,1919,23,1,2007,,"flowers, book, vase",Granite,Headstone,East/West,No,,,10/4/1919,1/23/2007,88,,f
 ATC,9,15,23,Hardy,Celestine H.,,3,8,1943,14,12,1914,You will be in our hearts forever,"face, floral motif",Granite,Plaque,East/West,No,,,8/3/1943,12/14/1914,-29,,f
-ATC,9,11,5,Mclamb,Bess T.,O. Wales Mclamb,30,9,1935,,,,The lord is my shepherd ,"Flowers, cross with “Ihs” phrase",Granite,Headstone,East/West,No,Double grace ,,9/30/1935,//,-1935,,f
 ATC,10,1,11,Cox,James Cox,,15,12,1936,5,7,1992,,flowers,Granite,Headstone,East/West,No,,,12/15/1936,7/5/1992,56,,m
 ATC,9,12,2,Ford,William Ralph,Emma Parker wife,24,4,1932,20,1,2017,,Urn,Granite,Headstone,East/West,Yes,,,4/24/1932,1/20/2017,85,,m
 ATC,10,2,33,Harris,Pansy Lee,,1,6,1907,9,1,2002,,flower,Granite,Vault,East/West,No,Sharing a grave with Leslie Harris,,6/1/1907,1/9/2002,95,,f
 ATC,9,8,30,Carmichael,"Clarence ""Mike"" Robert",husband of Alice Bane,18,3,1919,6,3,2000,,"flowers, book, vase",Granite,Headstone,East/West,No,,,3/18/1919,3/6/2000,81,,m
 ATC,9,15,7,Stockes,Jessie Warren,in stocks family plot,25,11,1927,30,9,1987,,,Marble,Plaque,East/West,No,,,11/25/1927,9/30/1987,60,,f
-ATC,10,1,23,Turnage,"James ""Buddy""","Devoted Husband, Loving Father, Cherished Granddaddy",18,11,1948,,,,Together Forever Until We Meet Again,"Red, yellow, purple flowers",Granite,Headstone,East/West,No,,,11/18/1948,//,-1948,,m
 ATC,10,2,34,Harris,Leslie,,22,11,1905,19,4,1988,,flower,Granite,Vault,East/West,No,Sharing a grave with Pansy Lee Harris,,11/22/1905,4/19/1988,83,,f
 ATC,9,11,6,Mclamb,O. Wade,Bess T. Mclamb(wife),15,5,1931,15,10,1993,The lord is my sheperd,"Cross with “IHS”, flowers, vase",Granite,Headstone,East/West,Yes,Foot stone: olden wade mclamb/ SN US coast guard *double grave,,5/15/1931,10/15/1993,62,,
 ATC,10,9,22,Guinn,Pamela Joyce,N/A,2,4,1995,9,5,1991,"""Beloved""",open book,Granite,Headstone,East/West,No,,,4/2/1995,5/9/1991,-4,,f
-ATC,10,1,12,McLawhorn,Judy Crawley,,25,3,1944,,,,Married May 20th 1962,"drawing of cross, green pattern",Granite,Headstone,East/West,No,,,3/25/1944,//,-1944,,f
-ATC,10,2,35,,,,,,,,,,,,,,,,"""Harris family plot (no graves just tablet w/ Harris)""",,//,//,0,,
 ATC,9,8,22,Faulkner,Elmer Frannis,husband of Hazel Nobles,25,6,1933,19,9,1999,"Together Forever/Nov. 3, 1951","flowers, praying hands, linked rings, flower vase with dove engravings",Granite,Headstone,East/West,,,,6/25/1933,9/19/1999,66,,m
-ATC,10,1,13,McLawhorn,"Jesse E. ""Bud""",,19,10,1943,,,,"Married May 20, 1962",,Granite,Headstone,East/West,No,,,10/19/1943,//,-1943,,m
 ATC,10,1,14,Pierce,Minnie Pittman,,28,10,1916,21,6,2002,,letter P with flower drawing,Granite,Headstone,East/West,No,,,10/28/1916,6/21/2002,86,,f
 ATC,9,12,9,Norman,Vernon G.,Pauline m.,14,2,1915,14,12,1996,Together forever,flowers and urn,Granite,Headstone,East/West,No,,,2/14/1915,12/14/1996,81,,m
 ATC,9,10,2,Holland,Hazel Laftin,Jesse Holland,5,12,1925,23,8,1997,,praying hands and cross,Granite,Plaque,East/West,No,,,12/5/1925,8/23/1997,72,,f
 ATC,10,1,15,Pierce,Frank,father,2,6,1910,30,9,1980,,letter P with flower drawing,Granite,Headstone,East/West,Yes,"Footstone says ""SF2 US Navy""",,6/2/1910,9/30/1980,70,,m
 ATC,10,4,17,Hill,"Dorris ""Dottie"" Leigh Harris ",N/A,11,11,1947,24,5,2023,N/A,belt of symbols carved on top,Granite,Headstone,East/West,No,metal stake instead of foot stone,,11/11/1947,5/24/2023,76,,f
 ATC,10,2,36,Thomas,Ages R.,,20,5,1905,8,3,1994,,,Granite,Plaque,East/West,No,"Parts of the ""Gravestone Data"" form were left blank",,5/20/1905,3/8/1994,89,,
-ATC,9,8,24,,,,,,,,,,In God's Care/always in our hearts,"heart, praying hands, praying angel, cross, flower",Granite,Headstone,East/West,No,Attached to Tracy-Dawn Meeks Faulkner; empty,,//,//,0,,
 ATC,9,15,8,Ponder,Doris M,Edwin R. Jr husband,19,4,1931,18,2,1987,In loving memory,Book and floral arrangement.,Granite,Headstone,East/West,No,,,4/19/1931,2/18/1987,56,,f
 ATC,10,2,37,Thomas,W. Russell,,22,6,1907,5,12,1984,,,Granite,Plaque,East/West,No,"Parts of the ""Gravestone Data"" form were left blank",,6/22/1907,12/5/1984,77,,
 ATC,9,10,3,Holland,Jesse Bright,Hazel Loftin Holland,15,12,1925,14,2,2005,,cross and praying hands,Granite,Plaque,East/West,Yes,,,12/15/1925,2/14/2005,80,,m
@@ -739,19 +653,15 @@ ATC,9,11,7,Craft ,Nora lee,Thomas L. Jr. craft ,25,10,1926,12,4,2000,,"Book, flo
 ATC,10,2,38,Gower,Nichole Annette,,7,7,1982,1,1,1983,infant,,Granite,Plaque,East/West,No,"Parts of the ""Gravestone Data"" form were left blank",,7/7/1982,1/1/1983,1,,f
 ATC,9,12,10,Cox,Christine C.,Dalton Paul,16,10,1934,6,7,2021,,"flowers, urn, praying hands and hands putting on wedding rings",Granite,Headstone,East/West,No,,,10/16/1934,7/6/2021,87,,f
 ATC,10,4,3,Griffin,Judi Annette,,4,1,1960,7,5,2022,"sisters, together forever","red and green rose, christian cross",Granite,Headstone,East/West,No,double grave with Teresa Jean Griffin Thomas,,1/4/1960,5/7/2022,62,,f
-ATC,9,9,18,Suggs,Janet C.,Edward L. Suggs (Husband),19,6,1954,,,,Married Oct 2nd 1970/always in our hearts,"hearts, rings, vase, angel, praying",Granite,Headstone,East/West,No,Double grave,,6/19/1954,//,-1954,,f
 ATC,10,1,17,Stocks,William Earl,,14,1,1938,24,7,2009,,Blue flower arrangement,Granite,Headstone,East/West,Yes,,,1/14/1938,7/24/2009,71,,m
 ATC,9,15,9,Ponder,Edwin Jr.,Husband of Doris M.,15,6,1921,20,12,1999,In loving Memory,Book and floral arrangement,Granite,Headstone,East/West,No,,,6/15/1921,12/20/1999,78,,m
-ATC,10,4,1,Williams,Mora Lee,,25,9,1958,,,,,roses on upper corners,Granite,Headstone,East/West,Yes,,,9/25/1958,//,-1958,,f
 ATC,9,11,8,Craft,Thomas L jr,Nora lee craft,12,10,1925,9,2,2014,,"Books, flowers, cross, vase",Granite,Headstone,East/West,Yes,"Foot: PFC US Army, world war II *double grave",,10/12/1925,2/9/2014,89,,m
 ATC,9,12,11,Cox,Dalton Paul,Christine C,16,4,1930,16,2,2013,,"flowers, urn, praying hands and hands putting on rings",Granite,Headstone,East/West,No,,,4/16/1930,2/16/2013,83,,m
-ATC,10,4,2,Williams,Marvin Gene,,24,3,1951,,,,,roses,Granite,Headstone,East/West,Yes,,,3/24/1951,//,-1951,,m
 ATC,9,11,16,Stokes,Katie Barrow,Marion T. Stockes,5,12,1926,26,7,2006,Husband married Nov 29th 1958 wife,"rings, flowers,",Granite,Headstone,East/West,No,Sharing grave with Marion T. Stokes,,12/5/1926,7/26/2006,80,,f
 ATC,9,9,19,Suggs,Edward L.,Janet C. Suggs (Wife),27,9,1949,16,11,2005,Married Oct 2nd 1970/always in our hearts,"a fish, rings, vase, hearts",Granite,Headstone,East/West,No,Double grave,,9/27/1949,11/16/2005,56,,m
 ATC,10,1,18,Hardee,Calvin G,,,,1935,,,2023,SG Wilherson Sons,Pink Flowers,Silve,Plaque,East/West,No,,,//1935,//2023,88,,m
 ATC,9,11,9,Kinlaw,Ocea p,Warren w kinlaw,10,10,1919,30,1,1997,Mother,"Praying hands, vase, books",Granite,Headstone,East/West,Yes,Foot: wife *double grave,,10/10/1919,1/30/1997,78,,
 ATC,9,10,11,Lanza,Tony,Louise Lanza,,,1925,,,1995,"One journey ends, another begins",engraved pillars,Granite,Headstone,East/West,Yes,,,//1925,//1995,70,,m
-ATC,10,1,19,Booding,,,,,,,,,,,Granite,,East/West,,,,//,//,0,,
 ATC,10,9,4,Thomas,Teresa Jean Griffin,,18,1,1959,13,5,2001,"""Mom I love you"", ""Paige""","red and green rose emblem, christian cross",Granite,Headstone,East/West,No,double grave with Judi Annette Griffin (sister),,1/18/1959,5/13/2001,42,,f
 ATC,9,15,10,Avery,Myrtle Ruth Cannon,,3,12,1932,13,11,2002,Forever in our hearts,Flores and crosses,Granite,Headstone,East/West,No,,,12/3/1932,11/13/2002,70,,f
 ATC,9,11,17,Stokes,Marion T.,Katie Barrow Stokes (Wife),2,5,1928,22,7,2013,"Husband, married Nov 29th, wife","rings, flowers",Granite,Headstone,East/West,No,Sharing grave with Katie Barrow Stokes,,5/2/1928,7/22/2013,85,,f
@@ -765,9 +675,6 @@ ATC,9,11,18,Potter,Sylvia Heath,Raymond West Potter,26,12,1939,3,3,1994,"June 21
 ATC,10,4,6,Holland,Geneva W.,,26,6,1943,11,9,1989,"""Daughter""",praying hands coming out of book,Granite,Plaque,East/West,No,,,6/26/1943,9/11/1989,46,,f
 ATC,9,10,20,graves,herbert,Harriet S. Graves,6,10,1942,22,3,1998,Forever in our hearts,flowers,Granite,Headstone,East/West,No,,,10/6/1942,3/22/1998,56,,m
 ATC,10,1,22,Turnage,Cherry Suitten,"Devoted wife, loving mother, cherished grandma",1,7,1952,3,11,2015,"Together forever, until we meet again / in heaven to join our Lord and savior",red flowers,Granite,Headstone,East/West,Yes,,,7/1/1952,11/3/2015,63,,f
-ATC,9,9,22,McLawhorn,William T.,Dawn H. McLawhorn (wife),8,12,1971,,,,"Father, heavens angels, in God's gang in heaven, rambilia ruble","Photo of children, motorcycle, vases, praying hands",Granite,Headstone,East/West,No,Family grave,,12/8/1971,//,-1971,,m
-ATC,9,11,19,Potter,Kaymond West,Sylvia Heath,25,2,1938,,,,"June 21st 1955, daddy","rings, flowers, vase",Granite,Headstone,East/West,Yes,"Sharing grave with Sylvia Heath Potter. Footstone says ""Papa""",,2/25/1938,//,-1938,,
-ATC,9,10,23,Smith,Annelise L.,Hildred Smith,30,11,1932,,,,In loving memory,"crosses, flowers, rings",Granite,Headstone,East/West,No,,,11/30/1932,//,-1932,,
 ATC,9,12,27,McLawhorn,F. Mitchell,Edna Earl (spouse),3,1,1926,25,4,1990,,flowers + wedding rings,Granite,Headstone,East/West,No,,,1/3/1926,4/25/1990,64,,
 ATC,9,15,11,avery ,Hurbert Ray,,9,6,1921,14,7,2005,Forever in our hearts,Flowers and crosses,Granite,Headstone,East/West,No,,,6/9/1921,7/14/2005,84,,m
 ATC,9,12,3,Coftin,Bettie Mc,,11,11,1932,14,4,2012,"we lived together in happiness, we rest together in peace","flowers, pinecones, urn, mountain, deers and trees",Granite,Headstone,East/West,No,,,11/11/1932,4/14/2012,80,,f
@@ -778,45 +685,33 @@ ATC,9,12,4,Loftin,Wilbur Lee,,23,6,1936,7,2,2015,"we lived together in happiness
 ATC,9,15,12,Hall,Edith Ann,,26,6,1942,28,8,1985,,"Book, flowers and vase",Granite,Headstone,,No,Shared grave with empty one,,6/26/1942,8/28/1985,43,,f
 ATC,9,9,23,McLawhorn,Ashlie Nicole,"William T. McLawhorn (Father), Dawn H. McLawhorn (Mother)",21,7,1992,26,6,1996,"Heaven's Angels, In God's gang in heaven","photo of kids, vases, praying hands, hearts",Granite,Headstone,East/West,Yes,"Foot: Nikki, Family grave",,7/21/1992,6/26/1996,4,,f
 ATC,9,12,18,Warthington,Alma V.,Alton (spouse),8,6,1929,15,2,2006,,flowers + urn,Granite,Headstone,East/West,No,,,6/8/1929,2/15/2006,77,,f
-ATC,9,15,13,Hall,,,,,,,,,,"Book, Flores and vase",Granite,Headstone,East/West,No,Shared grave with Edith Ann,,//,//,0,,
 ATC,9,12,5,Williams,Tami Haddock,,2,7,1959,19,12,1996,blessed are the pure in heart for they shall see God,flowers,Granite,Headstone,East/West,No,,,7/2/1959,12/19/1996,37,,f
 ATC,9,11,12,Cannon,Grace ward,Richard E cannon jr.,15,4,1927,9,2,1997,,Cross,Granite,Headstone,East/West,No,*family marker *double grave,,4/15/1927,2/9/1997,70,,f
 ATC,9,10,24,Smith,Hildred B.,Annelise Smith,26,1,1921,13,6,1998,In loving memory,"crosses, flowers, rings",Granite,Headstone,East/West,No,,,1/26/1921,6/13/1998,77,,f
 ATC,9,12,19,Warthington,Alton,Alma V. (spouse),28,9,1929,25,6,2001,,flowers + urn,Granite,Headstone,East/West,Yes,"Footstone says ""AIC US AIR FORCE KOREA""",,9/28/1929,6/25/2001,72,,m
 ATC,9,12,6,Phillips,William Edward,Lena F (spouse),5,12,1928,11,4,2014,,"flowers, urn and wedding rings",Granite,Headstone,East/West,Yes,,,12/5/1928,4/11/2014,86,,m
 ATC,9,9,24,McLawhorn,Timothy Scot,"William T. McLawhorn (Father), Dawn H. McLawhorn (Mother)",28,12,1995,26,6,1996,"Heaven's angels, in God's gang in heaven","hearts, photo of kids, hearts, vases, praying hands",Granite,Headstone,East/West,Yes,"Foot: Scot, Family grave",,12/28/1995,6/26/1996,1,,m
-ATC,9,10,19,Graves,Harriet S.,,23,7,1936,,,,Forever in our hearts,flowers,Granite,Headstone,East/West,No,,,7/23/1936,//,-1936,,f
 ATC,9,11,13,Cannon,Richard E jr.,Grace ward cannon(wife),5,9,1924,18,12,1991,SI US navy World War II ,Cross,Granite,Plaque,East/West,No,*family marker *double grave,,9/5/1924,12/18/1991,67,,m
 ATC,9,15,14,White,Hollon E,,7,7,1912,11,10,1997,"Wed. Dec. 23, 1943","Heart-shaped, flowers, linked wings, vase.",Granite,Headstone,East/West,No,,,7/7/1912,10/11/1997,85,,
 ATC,9,11,21,Gaines,Walter Morris,Ivene W. Gaines,15,9,1920,25,3,2002,,Vases,Granite,Headstone,East/West,No,Sharing grave with Ivene W. Gaines,,9/15/1920,3/25/2002,82,,m
 ATC,9,12,7,Phillips,Lena F.,William Edward (spouse),15,4,1936,21,9,2022,,"flowers, urn and wedding rings",Granite,Headstone,East/West,Yes,,,4/15/1936,9/21/2022,86,,f
-ATC,9,10,16,Carmon,Curtis Ray,Bettie Marie Carmon,8,9,1935,,,,Precious lord take our hand,hands reaching to god,Granite,Headstone,East/West,No,,,9/8/1935,//,-1935,,m
-ATC,10,4,10,Hart,Tonya Ruth,"""Daughter of Cordon and Eleanor Hart""",19,1,1962,,,,""" I can do all things through christ who strengthens me: phillipions 9:19""","cross, cove and banner with epitaph ",Granite,Headstone,East/West,No,sharing grave with Barbara Hart Whitman,,1/19/1962,//,-1962,,f
 ATC,9,11,14,Hill,Helen cox.,Lloyd Simmons hill,12,5,1925,12,4,1998,Married March 6 1943,Urns,Granite,Headstone,East/West,Yes,* double grave *footstone: helen,,5/12/1925,4/12/1998,73,,f
 ATC,9,15,15,White,Ernest L.,,22,8,1912,11,2,1987,"Wed, Dec. 23, 1943","heart-shaped, flower vase, and linked wings",Granite,Headstone,East/West,No,,,8/22/1912,2/11/1987,75,,m
 ATC,9,12,20,Hines,Kenneth Ray,,6,4,1943,25,10,1988,,flowers + urn,Granite,Headstone,East/West,No,,,4/6/1943,10/25/1988,45,,m
 ATC,9,11,22,Taylor,Frances Davis,Robert Henry Taylor,14,4,1919,14,9,2010,beloved wife,"Vase with cross,cross",Metal + Marble,Plaque,East/West,No,Sharing grave with Robert Henry Taylor,,4/14/1919,9/14/2010,91,,f
-ATC,9,10,15,Carmon,Bettie Marie,Curtis Ray Carmon,24,5,1938,,,,precious lord take our hand,hands reaching to god ,Granite,Headstone,East/West,,,,5/24/1938,//,-1938,,f
 ATC,10,9,8,Sutton,Herman F.,Husband of Pearl M.Sutton,,,1909,,,1980,,engravings of lines at the bottom,Granite,Headstone,East/West,No,sharing grave with Pearl M. Sutton,,//1909,//1980,71,,m
 ATC,9,9,25,McLawhorn,Maci Brooklyn,"William T. McLawhorn (Father), Dawn H. McLawhorn (Mother)",6,3,1995,26,6,1996,"In God's gang in heaven, heaven's angels","hearts, praying hands, vases, photos of kids",Granite,Headstone,East/West,Yes,"Foot: Brook, Family Grave",,3/6/1995,6/26/1996,1,,f
 ATC,9,12,12,Bosse,Rita N,"David G, spouse.",20,1,1923,1,11,1995,Loved by Family,,Granite,,East/West,,,,1/20/1923,11/1/1995,72,,f
-ATC,9,11,15,Hill,Lloyd Simmons ,Helen coz hill(wife),7,6,1922,,,,Married mar 6th 1943,Urns,Granite,Headstone,East/West,Yes,*double grave *footstone: Simmons ,,6/7/1922,//,-1922,,m
 ATC,9,12,8,Norman,Pauline M,Vernon G.,9,11,1922,1,2,2007,together forever,"urn, flowers and wedding rings",Granite,Headstone,East/West,No,,,11/9/1922,2/1/2007,85,,f
-ATC,9,12,21,Cannon,Peggy Wingate,Douglas Randolph (spouse),11,12,1939,,,,Saved by grace,cross,Granite,Headstone,East/West,No,,,12/11/1939,//,-1939,,f
 ATC,9,11,23,Taylor,Robert Henry,Francis Davis Taylor,24,7,1914,20,8,1991,"SGT, US Army Air Corps, World War I","cross, vase w cross",Metal & marble,Plaque,East/West,No,Sharing grave with Frances Davis Taylor,,7/24/1914,8/20/1991,77,,m
-ATC,9,12,22,Cannon,Douglas Randolph,Peggy Wingate (spouse),11,12,1935,,,,Saved by grace,cross,Granite,Headstone,East/West,No,,,12/11/1935,//,-1935,,m
-ATC,9,9,26,McLawhorn,Dawn H.,William T. McLawhorn (husband),8,10,1972,,,,"Mother, rambilia rose","book, rose, vase, praying hands",Granite,Headstone,East/West,No,Family Grave,,10/8/1972,//,-1972,,f
 ATC,10,2,1,Mooring,Alma W,,11,11,1910,11,7,1997,In loving memory,flower,Granite,Headstone,East/West,No,double,,11/11/1910,7/11/1997,87,,f
 ATC,10,9,9,Whitman,Barbara Hart,Daughter of Hubert and Norva Hart,4,9,1937,2,8,1983,"""I can do all things through christ who strengthens me: Phillipions 9:13""","cross, dove, banner with epitaph",Granite,Headstone,East/West,No,sharing a grave with Tonya Ruth Hart,,9/4/1937,8/2/1983,46,,f
 ATC,9,11,24,Tucker,Virginia D.,Wade D. Taylor,30,11,1938,18,11,1993,"Wife, ""Wed Apr 16th 1956""","Vase, flowers, rings",Granite,Headstone,East/West,No,Sharing grave with Wade D. Tucker,,11/30/1938,11/18/1993,55,,f
 ATC,9,12,23,Jolly,"Jane ""Jean""",Joseph (spouse),9,6,1919,7,7,2002,,flowers,Granite,Headstone,East/West,No,,,6/9/1919,7/7/2002,83,,f
-ATC,9,10,27,Tripp,Irene McLawhorn,MSGT. Robert Lee Tripp,16,6,1928,,,,,crosses and bells,Granite,Plaque,East/West,No,,,6/16/1928,//,-1928,,f
 ATC,9,9,29,Gurnsey,Ernest G.,,3,11,1952,3,12,1998,,"book, praying hands, flowers",Granite,Headstone,East/West,No,,,11/3/1952,12/3/1998,46,,m
 ATC,10,2,2,Mooring,Robert C,,6,10,1909,20,8,1979,In loving memory,flower,Granite,Headstone,East/West,No,double,,10/6/1909,8/20/1979,70,,m
 ATC,9,10,28,Tripp,MSGT. Robert Lee,Irene Tripp,6,3,1927,9,1,2017,,bells and crosses,Granite,Plaque,East/West,No,,,3/6/1927,1/9/2017,90,,
 ATC,9,12,24,Jolly,Joseph,"Jane ""Jean"" (spouse)",13,6,1920,24,4,1990,,flowers,Granite,Headstone,East/West,No,,,6/13/1920,4/24/1990,70,,m
-ATC,9,11,25,Tucker,Wade D.,Virginia D. Taylor,23,10,1935,,,,"Wed Apr 10th 1956, husband","rings, vase, flowers",Granite,Headstone,East/West,No,Sharing grave with Virginia D. Tucker,,10/23/1935,//,-1935,,m
-ATC,10,4,11,Bowen,Kimberly Rose,Mother of Brandon and Tre,16,10,1964,,,,Beyond the sunset is eternal day,dove on branch holding green spring in it's mouth,Granite,Headstone,East/West,No,,,10/16/1964,//,-1964,,f
 ATC,9,12,13,Bosse,David G,"Rita N, spouse.",3,6,1924,23,1,2011,,Cross,Granite,Headstone,East/West,Yes,,,6/3/1924,1/23/2011,87,,m
 ATC,9,9,30,Taylor,Lesia H.,Martin R. Taylor (Husband),27,6,1965,27,4,1996,We are not dead but have gone to dwell with Christ/married Feb 21st 1987,"vase, flowers, praying hands, cross",Granite,Headstone,East/West,No,Double grave,,6/27/1965,4/27/1996,31,,f
 ATC,9,12,25,Westbrook,Charles,,,,1946,,,2023,S.G. Wikerson + Sons FH,Wreath,Metal,Plaque,East/West,No,,,//1946,//2023,77,,m
@@ -825,49 +720,34 @@ ATC,9,13,1,Stokes,Rhodes corey,Hazel C stokes ,18,4,1913,20,10,1902,Together for
 ATC,9,10,34,Taylor,Ruth F.,Leon Taylor,18,5,1938,27,1,1996,Our father who art in heaven,"crosses, rings, prayer hands, urn",Granite,Headstone,East/West,No,,,5/18/1938,1/27/1996,58,,f
 ATC,10,2,3,Wainwright,Donna Jenkins,,30,7,1956,4,1,1980,"I have fought a good fight I have finished my course, I have kept the faith. 11 Timothy 4:7",cross,Granite,Plaque,East/West,No,,,7/30/1956,1/4/1980,24,,f
 ATC,10,9,12,Bright,Polly Ann,,10,9,1922,29,1,2002,,,Granite,Headstone,East/West,No,sharing grave with Polly Bright,,9/10/1922,1/29/2002,80,,f
-ATC,9,12,14,Cox,Nelle E.,Delano. R. Spouse,19,10,1931,,,,"Wed Sept 3, 1972","Roses, urn and bird",Granite,Headstone,East/West,No,,,10/19/1931,//,-1931,,f
 ATC,9,13,2,Stokes,Hazel C,Rhodes Cory stokes ,11,5,1909,21,1,1994,Together forever,Flowers ,Granite,Headstone,East/West,No,,,5/11/1909,1/21/1994,85,,f
 ATC,9,11,27,Anning,David Michael Jr.,,31,3,1972,6,10,1977,God's little lion,"family marker, praying hands, a person praying (plaque)",Granite,Plaque,East/West,No,Family marker,,3/31/1972,10/6/1977,5,,m
 ATC,9,12,26,McLawhorn,Elna Earl,F. Mitchell (spouse),5,11,1925,7,7,2011,,flowers + wedding rings,Granite,Headstone,East/West,No,,,11/5/1925,7/7/2011,86,,f
 ATC,10,4,13,Bright,Potty,,9,1,1956,9,1,1956,,,Granite,Headstone,East/West,No,sharing grave with Polly Ann Bright,,1/9/1956,1/9/1956,0,,
-ATC,9,9,31,Taylor,Martin R.,Lesia H. Taylor (Wife),27,8,1965,,,,We are not dead but have gone to dwell with Christ/married Feb 21st 1987,"praying hands, cross, vase",Granite,Headstone,East/West,No,double grave,,8/27/1965,//,-1965,,m
 ATC,9,15,1,Wooten,Clifton Earl,Husband of Betty Lou Newell (shared grave),11,8,1939,5,8,2010,"""His Work Was Never Done"" / Together Forever","Loverbirds, flowers",Granite,vault,East/West,No,,,8/11/1939,8/5/2010,71,,m
 ATC,10,2,4,Jenkins,James Edward,,26,2,1933,29,12,2015,S6/4 US Army Korea Vietnam,cross,Granite,Plaque,East/West,No,,,2/26/1933,12/29/2015,82,,m
 ATC,9,8,17,Clark,Virginia Dail,wife of Dennis James Clark,29,6,1956,24,12,1999,together forever (Jan 6th 1973),"dolphin, rings linked , vase",Granite,Headstone,East/West,Yes,"footstone: Mama, double grave with Dennis James Clark",,6/29/1956,12/24/1999,43,,f
 ATC,10,4,14,Wingate,Nancy Witherington,,23,2,1963,5,5,2021,You left us beautiful memories,"praying hands, roses, butterflies",Granite,Plaque,East/West,No,,,2/23/1963,5/5/2021,58,,f
 ATC,9,10,30,Tripp,"William Carl ""Charlie""",,19,1,1925,20,7,2015,,,Granite,Plaque,East/West,No,,,1/19/1925,7/20/2015,90,,m
-ATC,9,15,2,Wooten,Betty Lou Newell,Wife of Clifton Earl (shared grave),16,12,1939,,,,Together forever,"lovebirds, flowers",Granite,vault,East/West,No,,,12/16/1939,//,-1939,,f
-ATC,10,9,15,Campbell ,Nancy Katelyn,,6,12,1994,,,,Great Granddaughter,,Granite,Plaque,East/West,No,,,12/6/1994,//,-1994,,f
-ATC,9,12,15,Cox,Delano R,Nellie E,17,3,1933,,9,,"Wed, Sept. 3, 1972","Roses, Urn and bird",Marble,Headstone,East/West,No,,,3/17/1933,9//,-1933,,m
 ATC,9,11,28,Gordon,Joyce Rogers,"William ""Bill"" Teagle Gordon",20,8,1929,1,7,2009,"Though apart for a while, we will meet again, Dec 29th 1945","rings, books, flowers, cross on footstone",Granite,Headstone,East/West,Yes,"Sharing grave with William ""Bill"" Teagle Gordon. Footstone says ""Joyce Gordon. Faithful and loving wife, mama & granny Joyce""",,8/20/1929,7/1/2009,80,,f
 ATC,9,7,1,Dail,Pauline Dixon,Norman Dail (Husband),7,9,1919,25,11,2007,,Urn,Marble,Headstone,East/West,No,,,9/7/1919,11/25/2007,88,,f
 ATC,9,15,3,Wooten,Danny Lee,presumable son of Clifton Earl & Betty Lou Newell (graves next to each other),27,4,1964,26,12,2015,"""Just Like His Dad, His Work Was Never Done""",puppies,Granite,vault,East/West,No,,,4/27/1964,12/26/2015,51,,m
-ATC,9,8,19,moseley,ann taylor,wife of bernum page,23,1,1936,,,,Precious lord take my hand,"hands reaching for god, flower motifs, books, motifs",Granite,Headstone,East/West,,shared grave with spouse,,1/23/1936,//,-1936,,f
-ATC,10,4,16,Wainright,Alice Faye,,1943,4,,,,,,,Granite,Plaque,East/West,No,,,4/1943/,//,0,,f
 ATC,10,2,3,Jenkins,Alice Woodkins,,27,10,1936,5,2,2018,Nana/ forever in our hearts,cross,Granite,Plaque,East/West,No,,,10/27/1936,2/5/2018,82,,f
-ATC,9,15,4,Stocks,Hattie Bailey,shared grave with Elbert Lee,21,7,1930,,,,,,Granite,Headstone,East/West,No,,,7/21/1930,//,-1930,,f
-ATC,10,9,18,Wainright,Fred Earnest,,1,8,1942,,,,,,Granite,Plaque,East/West,No,,,8/1/1942,//,-1942,,m
 ATC,9,15,5,Stocks,Elbert Lee,Shared grave with Hattie Bailey,10,9,1927,3,2,1987,,,Granite,Headstone,East/West,No,,,9/10/1927,2/3/1987,60,,m
 ATC,9,11,29,Gordon,"William ""Bill"" Teagle",Joyce Rogers Gordon,23,7,1927,27,8,1996,"Though apart for a while, we shall meet again, Dec 24th 1945","rings, flowers, book, cross on footstone",Granite,Headstone,East/West,Yes,"Sharing grave with Joyce Rogers Gordon. Footstone says ""Bill Gordon, US Navy, World War I, July 27th, Aug 27th 1996""",,7/23/1927,8/27/1996,69,,m
 ATC,9,8,2,Faulkner,Hazel Nobles,Elmer Jarvis Faulkner,3,11,1935,14,2,2015,Together forever (Nov 3rd 1951),"Scrolls, flower engraving, angel, hearts, rings with wedding date, vase with a bird engraving",Granite,Headstone,East/West,No,shared with spouse,,11/3/1935,2/14/2015,80,,f
-ATC,9,15,6,Stocks,Joyce Craft,in Stocks family plot,10,10,1935,,,,,,Marble,Plaque,East/West,No,,,10/10/1935,//,-1935,,f
-ATC,10,4,20,Quick,Jerry Alvin,,,,,,,1997,US Navy Vietnam,a U with- at the top of the letter on both sides going outwards,Granite,Plaque,East/West,No,grave was overgrown,,//,//1997,1997,,m
 ATC,9,7,3,Mills,Barbara Ann,"Creston Ray ""Dick"" (Husband)",13,8,1952,21,1,2014,"The lord will indeed give what is good, and our lord will yield it's harvest. Psalm 85:12","leaves, urn, flowers, religious tapestry",Marble,Headstone,East/West,No,,,8/13/1952,1/21/2014,62,,f
 ATC,9,11,30,Stocks,Dallas W.,,5,11,1929,9,12,2000,,,Granite,Plaque,East/West,No,,,11/5/1929,12/9/2000,71,,m
 ATC,9,12,16,Stokes,Iva Paul,J. Thomas. Spouse,8,12,1901,15,4,1992,"Mother and married, May 20, 1923","flowers, wedding rings",Granite,Headstone,East/West,No,,,12/8/1901,4/15/1992,91,,f
 ATC,10,4,19,Odham,"""Bobby"" Robert E.",,8,11,1935,22,3,1993,In loving memory,praying hands ,Granite,Headstone,East/West,,,,11/8/1935,3/22/1993,58,,
 ATC,10,2,6,Garris,Irene B,,2,3,1936,8,7,1995,Earth has no sorrow that heaven can't heal,flowers,Granite,Headstone,East/West,No,,,3/2/1936,7/8/1995,59,,f
-ATC,9,8,26,Maness,John L Jr.,Husband of Vera Mozingo Maness,17,9,1936,,,,"together forver, PO3 USN","dove on a branch, cross, flowers",Granite,Headstone,East/West,,,,9/17/1936,//,-1936,,m
 ATC,9,7,5,Stocks,Mante B.,,5,4,1914,12,3,2000,,"angel statue, urn",Granite,Headstone,East/West,No,,,4/5/1914,3/12/2000,86,,
 ATC,10,9,21,Lewis,Derrick,,2,,1971,2,4,1993,"SPC,US Army",Cross,Granite,Plaque,East/West,No,grave was overgrown,,/2/1971,4/2/1993,22,,m
 ATC,9,11,31,Stocks,Gladys Bullock,Walter Lee Stocks,25,3,1903,27,8,1992,Into thy hands I commend my spirit,"flowers, books, vase, scrolls",Granite,Headstone,East/West,No,Sharing grave with Walter Lee Stocks,,3/25/1903,8/27/1992,89,,f
-ATC,10,2,7,Garris,Harrel,,8,12,1932,,,,Earth has no sorrow that heaven can't heal,flower,Granite,Headstone,East/West,No,,,12/8/1932,//,-1932,,
 ATC,9,7,6,,,,3,9,1929,12,11,2002,,"angel statue, urn",Granite,Headstone,East/West,No,,,9/3/1929,11/12/2002,73,,
-ATC,9,10,25,Bright ,Christine E,Jimmy Bright,3,12,1941,,,,He that believeth in me shall have life everlasting John 3:16,flowers,Granite,Headstone,East/West,,double w Jimmy Bright,,12/3/1941,//,-1941,,f
 ATC,9,3,1,Worthington,Catherine L.,Wife of Federick W. Worthington,17,9,1916,10,3,2001,,"Book and Flower engraving, vase.",Granite,Headstone,East/West,No,,,9/17/1916,3/10/2001,85,,f
 ATC,9,11,32,Stocks,Walter  Lee,Gladys Bullock,20,9,1900,23,6,1968,Into thy hands I commend my spirit,"flowers, books, scrolls, vase",Granite,Headstone,East/West,No,Sharing grave with Gladys Bullock Stocks,,9/20/1900,6/23/1968,68,,m
 ATC,9,10,26,Bright,Jimmy,Christine E. Bright,16,4,1929,31,1,1996,He that believeth in me shall have life everlasting. John 3:16,Flowers,Granite,Headstone,East/West,No,double grave with Christine E. Bright,,4/16/1929,1/31/1996,67,,m
-ATC,10,2,8,Barrow,"James R. ""Ricky""",Selena McLawron (Wife),26,8,1955,,,,married April 16 1993,cross,Granite,Headstone,East/West,No,,,8/26/1955,//,-1955,,m
 ATC,9,3,2,Worthington,Frederick W.,Husband of Catherine L. Worthington,29,11,1913,25,2,1986,,"Book and Flower engraving, vase.",Granite,Headstone,East/West,No,,,11/29/1913,2/25/1986,73,,m
 ATC,9,11,33,Stook,Billy Lee,,17,5,1940,5,5,1951,"Son of Mr. d, Mrs. W. L. Stook, silently sleeping","lamb, plant motif",Marble,Headstone,East/West,No,,,5/17/1940,5/5/1951,11,,m
 ATC,9,10,32,Buck,Susan Barnes,James Stuart Buck,1,3,1945,9,9,2019,"loving wife, moma, and grandma, may 11 1979","flower, rings",Granite,Headstone,East/West,,double with James Stuart Buck,,3/1/1945,9/9/2019,74,,f
@@ -876,36 +756,28 @@ ATC,9,13,3,Dunn,Thelma Grace stocks ,George Clarence jr dunn,15,6,1932,17,11,199
 ATC,9,7,28,Ward,George B.,Dorothy M. (wife),14,7,1941,8,10,1999,"Missed by all / married Oct 14, 1966",flowers,Granite,Headstone,East/West,Yes,,,7/14/1941,10/8/1999,58,,m
 ATC,9,8,11,Wilson,Gordon Wilbur,Husband of Lena Swilson,,,1918,,,1978,cm3 US Navy World War II,crosses,Metal,Plaque,East/West,No,Sharing grave with Lena S. Wilson,,//1918,//1978,60,,m
 ATC,9,10,29,Tripp,Elizabeth Upchurch,,27,9,1925,17,11,2022,,flowers,Granite,Plaque,East/West,No,,,9/27/1925,11/17/2022,97,,f
-ATC,10,2,9,Barrow,Selena McLawron,"James ""R"" Ricky (husband)",12,1,1996,,,,Married April 16 1993,cross,Granite,Headstone,East/West,No,,,1/12/1996,//,-1996,,f
 ATC,9,3,3,Turner,Barbara Moore,,,,1933,,,2022,,,Metal,marker,East/West,Yes,,,//1933,//2022,89,,f
 ATC,9,7,9,Persinger,James Ronald,Patricia Ijames (wife),7,10,1943,15,2,2001,In Loving Memory,urn + flowers,Granite,Headstone,East/West,Yes,,,10/7/1943,2/15/2001,58,,m
 ATC,9,8,4,Bellah,Darlah,,,,1963,,,2023,,,Metal,Marker,East/West,No,,,//1963,//2023,60,,
 ATC,9,13,4,Dunn,George Clarence jr,Thelma grace stocks,12,3,1930,15,10,2016,We shall meet again/“father”,"Hearts,flowers,urn,prayer hands ",Granite,Headstone,East/West,No,,,3/12/1930,10/15/2016,86,,m
 ATC,9,7,11,Worthington,Margaret G. Bullock,,25,9,1936,17,12,2000,,"urn, yellow flowers",Granite,Headstone,East/West,No,,,9/25/1936,12/17/2000,64,,f
-ATC,9,10,33,Buck,James Stuart,Susan Barnes Buck,9,6,1945,,,,"loving husband, vern, and grandpa, May 11 1979","gun, fishing pole, rings",Granite,Headstone,East/West,No,double with spouse,,6/9/1945,//,-1945,,m
 ATC,10,2,10,Pierce,James L,,29,3,1932,27,4,2009,"""Jimmy""",angel and praying hands,Granite,Plaque,East/West,No,,,3/29/1932,4/27/2009,77,,m
-ATC,9,8,30,Swobland,John W.,Rebie Rouse (spouse),22,9,1937,,,,,praying hands holding roses,Granite,vault,East/West,No,sharing grave with Rebie Rouse,,9/22/1937,//,-1937,,m
 ATC,9,8,12,Dale,Alberta Smith,Wife of Joyner Wingale and mother of Kimberly B. Dale,28,8,1921,27,10,2005,Beloved wife & mother,Cross,Granite,Plaque,East/West,No,Family grave with Joyner Wingate Dale and Kimberly B. Dale,,8/28/1921,10/27/2005,84,,f
 ATC,9,7,12,Worthington,Milton Kennedy J.R.,,9,10,1936,31,10,2007,,urn and yellow flowers,Granite,Headstone,East/West,No,,,10/9/1936,10/31/2007,71,,m
 ATC,9,8,5,Moore,Odie Mae,Wife of Earl Moore,12,7,1913,15,12,1992,,Flower engraving,Granite,Plaque,East/West,No,,,7/12/1913,12/15/1992,79,,m
 ATC,9,10,35,Taylor,Leon P.,Ruth F. Taylor,29,9,1936,13,11,2012,"Our father who art in heaven, june 6 1955","rings, cross, prayer hands",Granite,Headstone,East/West,Yes,"footstone: US Army , double with spouse",,9/29/1936,11/13/2012,76,,m
-ATC,9,8,25,Maness,Vera Mozingo,John L. Jr. (Spouse),21,8,1930,,,,"""together forever""","cross, pair of doves",Granite,Headstone,East/West,No,sharing grave with John L. Jr.,,8/21/1930,//,-1930,,f
 ATC,9,8,13,Dale,Joyner Wingate,"Husband of Alberta Smith Dale, Daughter of Kimberly B. Dale",6,9,1920,21,11,1980,,Free Mason,Granite,Plaque,East/West,No,Family plot with Alberta Smith Dale and Kimberly B. Dale,,9/6/1920,11/21/1980,60,,f
 ATC,10,2,11,Gooding,Julia Ruggles,,1,8,1919,3,2,1992,,cross,Granite,Plaque,East/West,No,,,8/1/1919,2/3/1992,73,,f
 ATC,9,13,5,Buch,Patricia shroud buck,John Richard buck,20,4,1949,7,8,1985,,Flowers,Granite,Headstone,East/West,No,,,4/20/1949,8/7/1985,36,,f
 ATC,9,3,6,Moore,Earl,HUsband of Odie Mae Moore,3,11,1910,6,1,1990,,flower engraving,Granite,Plaque,East/West,No,,,11/3/1910,1/6/1990,80,,m
 ATC,9,9,28,Barfield,Curtis Edward,Shirley Tripp Barfield (spouse),7,7,1931,24,3,2014,,Floral engravings on corners,Granite,Headstone,East/West,Yes,"Sharing grave with Shirley Tripp; footstone says ""Curtis E Barfield Tsat U.S. Air Force JULY 7 1931 Korea Vietnam March 24 2014""",,7/7/1931,3/24/2014,83,,m
 ATC,9,10,31,Tripp,William Clyde,Son of  Elizabeth and William,24,8,1952,24,8,1952,,"flowers, lamb engraving",Marble,Plaque,East/West,Yes,"Footstone: William Clyde , Infant Son of Charlie and Elizabeth Tripp Jr. Aug 24, 1952",,8/24/1952,8/24/1952,0,,m
-ATC,9,13,6,Buck,John richard,Patricia shroud buck,7,10,1947,,,,,Flowers,Granite,Headstone,East/West,No,,,10/7/1947,//,-1947,,m
 ATC,10,2,12,Gooding,Herbert Wesley,,24,12,1919,23,7,2002,LCDR OC USNR World War II Korea,cross,Granite,Plaque,East/West,No,,,12/24/1919,7/23/2002,83,,m
 ATC,9,7,13,Wooten,James W.,,13,2,1933,14,6,2003,Redeemed with his precious blood.,urn with cross and flowers,Granite,Headstone,East/West,Yes,CPL US Army; Korea,,2/13/1933,6/14/2003,70,,m
 ATC,9,9,21,Cox,Sue Sugg,Monroe Ellis (spouse),12,2,1940,13,11,2018,"Farmers on Earth, Angels in heaven",hanging leaves,Granite,Headstone,East/West,No,sharing grave with Monroe Ellis Cox,,2/12/1940,11/13/2018,78,,f
-ATC,9,9,27,Barfield,Shirley Tripp,Curtis Edward (spouse),4,12,1934,,,,,floral engravings in the top corners,Granite,Headstone,East/West,No,,,12/4/1934,//,-1934,,f
 ATC,9,7,15,McLawhorn,Jett,Minnie Smith (wife),14,11,1923,31,1,2007,,"Hammer, saw engraved, praying hands and flowers in urn",Granite,Headstone,East/West,Yes,"Foot: ""Jett""",,11/14/1923,1/31/2007,84,,m
 ATC,10,2,13,Bonner,Letha E,,30,7,1900,7,6,1990,,flower,Granite,Headstone,East/West,,,,7/30/1900,6/7/1990,90,,f
 ATC,9,8,7,Moore ,Earl Jr.,,11,1,1940,3,2,2016,"""Pete""",,Granite,Plaque,East/West,No,,,1/11/1940,2/3/2016,76,,m
-ATC,9,8,26,Tripp,Harold,,,,,,,,Together Forever,,Granite,,East/West,No,,,//,//,0,,m
-ATC,9,8,27,Tripp,Ruby,,,,,,,,Together Forever,,Granite,,East/West,No,,,//,//,0,,f
 ATC,9,13,7,Cowan,Caleb linsey,,3,2,1998,24,1,2012,"Known by many loved by all quiet and sweet beautiful and perfect we will remember you as a loyal and forever lashing son, brother, grandson, great grandson, and friend ","Polaroid, urn with flowers ",Granite,Headstone,East/West,No,,,2/3/1998,1/24/2012,14,,m
 ATC,9,8,14,Dale,Kimberly B.,"Daughter of Joyner Wingate Dale, Alberta Smith Dale",23,6,1955,16,2,2017,Beloved Daughter and Sister,cross,Granite,Plaque,East/West,No,"Family plot with Joyner Wingate Dale and Kimberly B. Dale. Kimberly is the daughter of Joyner, not the other way around.",,6/23/1955,2/16/2017,62,,f
 ATC,9,8,30,Suobland,Rebie Rouse,,6,10,1932,10,9,1999,Beloved wife mother & grandmother,"purple, yellow, white flowers drawing barrels & flowers",Granite,vault,East/West,No,,,10/6/1932,9/10/1999,67,,
@@ -913,19 +785,14 @@ ATC,9,8,32,weatherington,James E.,,10,1,1922,16,8,2001,,"Hands prating, flower",
 ATC,9,7,16,Keltner,Davis Elroy,,24,5,1929,10,6,2002,,cross,Granite,Plaque,East/West,No,SGT US Army; Korea,,5/24/1929,6/10/2002,73,,m
 ATC,9,8,33,West,Bradley,,3,8,1994,16,1,1998,,blue flowers,Granite,Plaque,East/West,No,,,8/3/1994,1/16/1998,4,,m
 ATC,9,8,31,Weatherington,Ruby V.,James E. Weatherington,24,7,1916,17,3,2004,In Loving Momory,,Granite,Headstone,East/West,No,double grave,,7/24/1916,3/17/2004,88,,f
-ATC,9,8,15,Sudor,Stephen,Husband of Bertha M. Sudor,27,11,1922,,,,Husband,,Granite,Plaque,East/West,No,Family plot with Bertha M. Sudor,,11/27/1922,//,-1922,,m
 ATC,10,2,19,Bonner,Henry,,20,12,1919,11,2,1986,,flower,Granite,Headstone,East/West,No,,,12/20/1919,2/11/1986,67,,m
 ATC,9,8,8,Bowen,Selma Worthington,Wife of Dulus Jr. Brown,29,7,1927,31,10,2019,"""Mother,"" loves lives on.","CRoss, flower engraving, book, rose",Granite,Headstone,East/West,Yes,,,7/29/1927,10/31/2019,92,,f
 ATC,9,13,8,Williams,Ruth waters ,William bill williams,18,7,1916,24,5,1991,May your rest be as sweet as our memories of you/“mother”,"Flowers, rings,books",Granite,Headstone,East/West,No,,,7/18/1916,5/24/1991,75,,f
 ATC,9,8,16,Sudor,Bertha M. Sudor,Wife of Stephen Sudor,24,7,1924,18,5,1994,"Wife""",,Granite,Plaque,East/West,No,Family grave with Bertha M. Sudor,,7/24/1924,5/18/1994,70,,f
 ATC,9,8,17,Braxton,Dorothy Hardee,wife of Amos Bernire Braxton and mother of Ava Bernice Braxton,1,8,1921,5,11,2001,"Mother, July 6 1946","flower engraving & book engraving, vase",Granite,Headstone,East/West,No,Family grave with: Amos Bernice Braxton and Bernice Braxton,,8/1/1921,11/5/2001,80,,f
-ATC,9,8,9,Rowen,"Dulus, Jr.",Husband of Selma Worthington Bowen.,26,11,1923,51984,7,,"""Father,"" love lives on.","Cross, Vase, Book, and flower engraving",Granite,Headstone,East/West,No,,,11/26/1923,7/51984/,-1923,,m
-ATC,10,15,Carman,"Thad Edward Jr.,",,,4,6,1955,,,,6456T-USMC-RET,"pray, cross, flower",Granite,Headstone,East/West,No,,,6/4/1955,//,-1955,,
 ATC,9,7,19,Avery,Michael Scott,,24,11,1977,8,9,2002,Gone but not forgotten,"truck engraved, flowers and urn",Granite,Headstone,East/West,No,,,11/24/1977,9/8/2002,25,,m
 ATC,10,1,24,Williams,Christabel S.,,25,12,1919,13,3,2011,Together forever,"drawing praying hands, flowers",Granite,Headstone,East/West,No,,,12/25/1919,3/13/2011,92,,
-ATC,9,8,10,Wilson,Lena S,Wife of Gordon Wilbur Wilson,1921,,1993,,,,,Cross,Metal,Plaque,East/West,No,,,/1921/1993,//,-1993,,f
 ATC,10,2,16,Carman,"Thad Edward, Sr",,17,5,1922,21,4,1981,,"pray, cross, flower",Granite,Headstone,East/West,Yes,,,5/17/1922,4/21/1981,59,,m
-ATC,9,7,20,Meeks,Sybil M.,Edward E. Sr (Husband),15,2,1944,,,,Precious Memories,"praying hands, flowers, cross, birds and wedding bells",Granite,Headstone,East/West,No,,,2/15/1944,//,-1944,,f
 ATC,10,1,25,Williams ,Albert Gi.,,18,11,1915,7,9,1982,,drawing of praying hands and flowers,Granite,Headstone,East/West,No,,,11/18/1915,9/7/1982,67,,m
 ATC,9,7,21,Meeks,Edward E. Sr,Sybil M. (Wife),21,3,1943,24,9,2020,Precious memories,"flowers, cross, praying hands, birds and wedding bells",Granite,Headstone,East/West,No,,,3/21/1943,9/24/2020,77,,m
 ATC,9,11,1,Lister,Andrew Nicholas,,8,12,1993,16,11,2013,"""Forever in our hearts, beloved son and brother.","vase, cross, leaf",Granite,Headstone,East/West,Yes,,,12/8/1993,11/16/2013,20,,m
@@ -938,14 +805,11 @@ ATC,9,11,2,Sullivan,Ricky Lee,,26,4,1961,13,11,2012,"Loving father, CPL, US Army
 ATC,9,13,9,Williams,William “bill”,Ruth waters williams,1,10,1916,11,7,1986,May your rest be as sweet as our memories of you/“father”,"Flowers/books/rings/“married oct 11, 1942”",Granite,Headstone,East/West,Yes,,,10/1/1916,7/11/1986,70,,m
 ATC,10,1,29,Bradshaw,Joanne,,14,1,1910,1,5,1983,,drawing flower,Granite,Headstone,East/West,No,,,1/14/1910,5/1/1983,73,,f
 ATC,10,1,30,Burney,Maebelle Janes R,,11,9,1912,10,1,1981,,,Granite,Headstone,East/West,Yes,,,9/11/1912,1/10/1981,69,,f
-ATC,9,11,3,Sullivan,Josette B.,,20,5,1941,,,,Together Forever ,"Crosses, flowers, vase",Granite,Headstone,East/West,No,,,5/20/1941,//,-1941,,f
 ATC,9,13,10,Booth,Rebecca,W Robert booth,3,3,1918,26,5,2013,,,Granite,Headstone,East/West,No,,,3/3/1918,5/26/2013,95,,f
 ATC,10,1,31,Dawson,Jean,,26,10,1943,20,8,2022,Forever in our hearts,"flowers, drawing of a cross",Granite,Headstone,East/West,Yes,,,10/26/1943,8/20/2022,79,,f
 ATC,9,15,19,Tripp,Ruth Wood,Shared grave with Elmer H.,20,2,1931,17,10,2011,,"floral motif, vase",Granite,Headstone,East/West,Yes,"footstone says ""mother)",,2/20/1931,10/17/2011,80,,f
-ATC,9,15,18,Whitley,Bynum E.,shared grave with Martha J.,5,3,1928,,,,In God's care,"book, flower",Granite,Plaque,East/West,No,,,3/5/1928,//,-1928,,m
 ATC,9,15,17,Whitley,Martha J.,shared grave with Bynum E.,8,8,1930,2,5,1991,In God's care,"flower, book",Granite,Plaque,East/West,No,,,8/8/1930,5/2/1991,61,,f
 ATC,10,2,17,Turnage,Litha E,,13,5,1915,16,7,1982,mother/gone but not forgotten,book/flower/pray hands,Granite,Headstone,East/West,Yes,,,5/13/1915,7/16/1982,67,,f
-ATC,9,11,4,Sullivan,Vance L.,Wife Josette B. Sullivan,29,4,1941,,,,Together Forever,"Crosses, flowers, vase",Granite,Headstone,East/West,No,,,4/29/1941,//,-1941,,m
 ATC,9,15,16,Murray,Carol Anne,,4,6,1938,22,3,1986,A servant of the Lord - Psalms 32:8,floral motif,Granite,Headstone,East/West,No,,,6/4/1938,3/22/1986,48,,f
 ATC,10,1,1,Wainright,Joyce,,2,12,1935,4,12,1995,,,Granite,Plaque,East/West,No,,,12/2/1935,12/4/1995,60,,f
 ATC,10,1,2,Wainright,Raymond,,15,12,1912,8,12,1983,,,Granite,Plaque,East/West,No,,,12/15/1912,12/8/1983,71,,m
@@ -958,13 +822,11 @@ ATC,10,1,6,Williamson,James Alfred,,29,10,1927,29,11,2011,,"Pair of rings dated 
 ATC,10,1,7,Moore,Pattie W,,15,2,1954,,,2021,,Urnes with Flowers,Granite,Headstone,East/West,Yes,,,2/15/1954,//2021,67,,f
 ATC,10,1,8,Moore,AC.,,1,2,1947,4,7,2015,,"Pair of rings dated wed oct 6, 2000",Granite,Headstone,East/West,No,,,2/1/1947,7/4/2015,68,,
 ATC,10,1,5,Williamson,Irene mclawhorn,,29,12,1928,18,4,2012,,Ring pair dated dec 27 1950/ urn with flowers,Granite,Headstone,East/West,No,,,12/29/1928,4/18/2012,84,,f
-ATC,10,1,9,Williams,Reather J,,29,12,1913,,,,,Flowers in urn,Granite,Headstone,East/West,Yes,,,12/29/1913,//,-1913,,
 ATC,10,2,20,Crouch,"Burleigh O. , 3R",,2,8,1929,15,6,1981,,flower/ scroll ,Granite,Headstone,East/West,No,,,8/2/1929,6/15/1981,52,,m
 ATC,9,12,1,Ford ,Emma Parker,William B. Ford Husband,7,4,1933,6,2,2008,"Together forever, and the ford family",urn,Granite,Headstone,East/West,Yes,,,4/7/1933,2/6/2008,75,,f
 ATC,9,12,17,Stokes,J Thomas,Iva Paul (spouse),20,12,1901,11,5,1994,Father+ married may 26 1923,flowers+wedding rings,Granite,Headstone,East/West,No,,,12/20/1901,5/11/1994,93,,
 ATC,9,13,11,Booth,W Robert,Husband of Rebecca H Booth,17,2,1909,28,10,1986,,,Granite,Obelisk,East/West,No,,,2/17/1909,10/28/1986,77,,m
 ATC,9,13,12,Hart,Frances Booth,Wife of John Smith Hart,23,4,1942,19,1,2023,,"Rings, hearts, medical staff symbol, urn ",Granite,Tablet,East/West,No,,,4/23/1942,1/19/2023,81,,f
-ATC,9,13,13,Hart,John Smith,Husband of Frances Booth Hart,,,,,,,,"Rings, urn, hearts, American flag",Granite,Tablet,East/West,No,,,//,//,0,,m
 ATC,9,13,14,Braxton,Myrtle Casey ,“For” Charles Robin Braxton ,2,1,1918,4,4,1998,Beloved Mother ,Urn with flowers ,Granite,Headstone,East/West,No,,,1/2/1918,4/4/1998,80,,f
 ATC,9,13,15,Braxton,“Tom” Charles Robin,Husband of Myrtle Casey Braxton,3,1,1916,21,2,2003,Beloved Daddy,Urn with Flowers ,Granite,Headstone,East/West,No,,,1/3/1916,2/21/2003,87,,m
 ATC,9,13,16,Curry,Jessie Harrell Mitchell ,Wife of Walter Raymond Curry ,17,3,1911,25,11,2003,,,Granite,Plaque,East/West,No,,,3/17/1911,11/25/2003,92,,f
@@ -978,7 +840,6 @@ ATC,9,13,23,Kornecay,Collins Earl,,,,1924,,,1990,Gone but not forgotten,"Cross, 
 ATC,9,13,24,Meetes,James Henry,,2,6,1925,7,1,1994,,,Granite,Plaque,East/West,No,,,6/2/1925,1/7/1994,69,,m
 ATC,9,13,25,Taylor,Ola Deal,Wife of James Thad Taylor ,11,12,1914,29,7,2015,Married Sept 6 1934,"Heart, flowers ",Granite,Headstone,East/West,No,,,12/11/1914,7/29/2015,101,,f
 ATC,9,13,28,Taylor,James Thad ,Husband of Ola Deal Taylor ,12,8,1911,2,4,1994,Married September 6 1934,Heart with flowers ,Granite,Headstone,East/West,No,,,8/12/1911,4/2/1994,83,,m
-ATC,9,13,27,Avery,Goldie H,Wife of B Ray Avery ,27,12,1933,,,,Wed Apr 29 1955,Urn with flowers and flower motif ,Granite,Headstone,East/West,Yes,,,12/27/1933,//,-1933,,f
 ATC,9,14,28,Avery,B Ray,Husband of Goldie H Avery,30,11,1930,21,12,1993,Wed Apr 29 1955,Urn w flowed and flower motif ,Granite,,East/West,Yes,,,11/30/1930,12/21/1993,63,,m
 ATC,9,13,29,Cleaton,Lois Tyson,Wife of Harry Thomas Cleaton,12,6,1929,5,5,2019,Married June 27 1947,"Mirror, urn, flower motif ",Granite,Headstone,East/West,No,,,6/12/1929,5/5/2019,90,,f
 ATC,10,2,21,Daughtery,Isabell A.,,17,12,1911,28,11,1996,Rest in Peace ,Flower and book,Granite,Tablet ,East/West,No,,,12/17/1911,11/28/1996,85,,f
@@ -992,5 +853,4 @@ ATC,10,2,27,Williams,Bobbie R,,15,9,1938,2,8,1995,We will meet again,Cross and f
 ATC,10,2,28,Littleton,Dorothy H,,1,11,1923,6,9,2000,,Cross and flowers ,Granite,Tablet ,East/West,No,,,11/1/1923,9/6/2000,77,,f
 ATC,10,2,29,Godley,James William SR,,21,10,1928,29,8,1996,PFC US Army Korea,,Granite,Plaque,East/West,No,,,10/21/1928,8/29/1996,68,,m
 ATC,10,2,30,Godley,Elizabeth O,,7,12,1939,29,4,1994,The Children/ Mother,Heart/flowers ,Granite,Tablet ,East/West,No,,,12/7/1939,4/29/1994,55,,f
-ATC,9,7,27,Ward,Dorothy M ,,6,12,1939,,,,"Missed by all, Married Oct 14 1999",,Granite,Headstone,East/West,No,,,12/6/1939,//,-1939,,f
 ATC,9,7,4,Mills,Greston Ray “Dick” ,"Devoted husband, loving father, and cherished granddaddy ",23,11,1952,26,5,2018,"The lord will indeed give what is good, and our land will yield its harvest. Spalsm 85:R","Urne Pinn/white flowers, pic of them ",Granite,Headstone,East/West,No,,,11/23/1952,5/26/2018,66,,
