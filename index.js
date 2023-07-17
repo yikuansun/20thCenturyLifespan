@@ -139,7 +139,7 @@ const dfd = require("danfojs-node");
     var pltData3 = [{
         x: yearListSimple,
         y: validDataPoints,
-        type: "bar",
+        type: "scatter",
         orientation: "v",
     }];
     pltLayout3 = {
