@@ -55,7 +55,7 @@ const dfd = require("danfojs-node");
         height: 450,
         xaxis: {
             tickangle: "auto",
-            title: "year",
+            title: "year of birth",
         },
         yaxis: {
             tickangle: 45,
@@ -112,7 +112,7 @@ const dfd = require("danfojs-node");
         height: 450,
         xaxis: {
             tickangle: "auto",
-            title: "decade",
+            title: "decade of birth",
         },
         yaxis: {
             tickangle: 45,
