@@ -13,7 +13,7 @@ const dfd = require("danfojs-node");
     var mfmf = [];
     var avgAges = [];
     var cWay = [];
-    for (var year = 1900; year < 2000; year++) {
+    for (var year = 1850; year < 1950; year++) {
         var mLifespans = [];
         var fLifespans = [];
         
@@ -66,11 +66,13 @@ const dfd = require("danfojs-node");
     birthYears = JSON.parse(JSON.stringify(df.column("Born: Year ").values));
     deathYears = JSON.parse(JSON.stringify(df.column("Died: Year").values));
     predictedGenders = JSON.parse(JSON.stringify(df.column("Predicted Gender").values));
-    var decadeList = [1900, 1910, 1920, 1930, 1940, 1950, 1960, 1970, 1980, 1990];
+    var decadeList = [];
     var avgAges10Yr = [];
     var mfmf10Yr = [];
     var cWay10Yr = [];
-    for (var decade of decadeList) {
+    for (var decade = 1850; decade < 1950; decade += 10) {
+        for (var i = 0; i < 2; i++) decadeList.push(decade);
+
         var mLifespans = [];
         var fLifespans = [];
         
@@ -96,7 +98,6 @@ const dfd = require("danfojs-node");
         cWay10Yr.push("deeppink");
 
     }
-    decadeList = [1900, 1900, 1910, 1910, 1920, 1920, 1930, 1930, 1940, 1940, 1950, 1950, 1960, 1960, 1970, 1970, 1980, 1980, 1990, 1990];
     var pltData2 = [{
         x: [decadeList, mfmf10Yr],
         y: avgAges10Yr,
@@ -122,7 +123,7 @@ const dfd = require("danfojs-node");
     birthYears = JSON.parse(JSON.stringify(df.column("Born: Year ").values));
     var yearListSimple = [];
     var validDataPoints = [];
-    for (var year = 1900; year < 2000; year++) {
+    for (var year = 1850; year < 1950; year++) {
         var validDataCount = 0;
         
         yearListSimple.push(year);
