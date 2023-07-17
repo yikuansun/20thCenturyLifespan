@@ -18,7 +18,7 @@ const dfd = require("danfojs-node");
         var fLifespans = [];
         
         while (birthYears[0] <= year) {
-            if (birthYears[0] == year && deathYears[0] > birthYears[0]) {
+            if (birthYears[0] == year && deathYears[0] >= birthYears[0]) {
                 ((predictedGenders[0] == "m")?mLifespans:fLifespans).push(deathYears[0] - birthYears[0]);
             }
             birthYears.splice(0, 1);
@@ -75,7 +75,7 @@ const dfd = require("danfojs-node");
         var fLifespans = [];
         
         while (birthYears[0] < decade + 10) {
-            if (birthYears[0] >= decade && deathYears[0] > birthYears[0]) {
+            if (birthYears[0] >= decade && deathYears[0] >= birthYears[0]) {
                 ((predictedGenders[0] == "m")?mLifespans:fLifespans).push(deathYears[0] - birthYears[0]);
             }
             birthYears.splice(0, 1);
@@ -128,7 +128,7 @@ const dfd = require("danfojs-node");
         yearListSimple.push(year);
 
         while (birthYears[0] <= year) {
-            if (birthYears[0] == year && deathYears[0] > birthYears[0]) {
+            if (birthYears[0] == year && deathYears[0] >= birthYears[0]) {
                 validDataCount++;
             }
             birthYears.splice(0, 1);
