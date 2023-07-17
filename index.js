@@ -156,11 +156,67 @@ const dfd = require("danfojs-node");
         },
     };
 
+    birthYears = JSON.parse(JSON.stringify(df.column("Born: Year ").values));
+    deathYears = JSON.parse(JSON.stringify(df.column("Died: Year").values));
+    predictedGenders = JSON.parse(JSON.stringify(df.column("Predicted Gender").values));
+    var decadeList2 = [];
+    var gap10Yr = [];
+    var cWayGaps = [];
+    for (var decade = 1850; decade < 1950; decade += 10) {
+        decadeList2.push(decade);
+
+        var mLifespans = [];
+        var fLifespans = [];
+        
+        while (birthYears[0] < decade + 10) {
+            if (birthYears[0] >= decade && deathYears[0] >= birthYears[0]) {
+                ((predictedGenders[0] == "m")?mLifespans:fLifespans).push(deathYears[0] - birthYears[0]);
+            }
+            birthYears.splice(0, 1);
+            deathYears.splice(0, 1);
+            predictedGenders.splice(0, 1);
+        }
+
+        var mSum = 0;
+        for (var age of mLifespans) mSum += age;
+        var avgMAge = mSum / mLifespans.length;
+
+        var fSum = 0;
+        for (var age of fLifespans) fSum += age;
+        var avgFAge = fSum / fLifespans.length;
+
+        gap10Yr.push( avgMAge - avgFAge );
+
+        cWayGaps.push((avgMAge > avgFAge)?"darkblue":"deeppink");
+    }
+    var pltData4 = [{
+        x: decadeList2,
+        y: gap10Yr,
+        type: "bar",
+        orientation: "v",
+        marker: {
+            color: cWayGaps,
+        },
+    }];
+    pltLayout4 = {
+        width: 1000,
+        height: 450,
+        xaxis: {
+            tickangle: "auto",
+            title: "decade of birth",
+        },
+        yaxis: {
+            tickangle: 45,
+            title: "avg. male lifespan - avg. female lifespan",
+        },
+    };
+
     var html = `<script src="https://cdnjs.cloudflare.com/ajax/libs/plotly.js/2.24.2/plotly.min.js" charset="utf-8"></script>
 
         <div id="tester" style="width:3200px;height:450px;"></div>
         <div id="tester2" style="width:1000px;height:450px;"></div>
         <div id="tester3" style="width:1600px;height:450px;"></div>
+        <div id="tester4" style="width:1600px;height:450px;"></div>
 
         <script>
             TESTER = document.getElementById('tester');
@@ -171,6 +227,9 @@ const dfd = require("danfojs-node");
 
             TESTER = document.getElementById('tester3');
             Plotly.newPlot( TESTER, ${JSON.stringify(pltData3)}, ${JSON.stringify(pltLayout3)} );
+
+            TESTER = document.getElementById('tester4');
+            Plotly.newPlot( TESTER, ${JSON.stringify(pltData4)}, ${JSON.stringify(pltLayout4)} );
         </script>`.split("\n").join("");
     fs.writeFileSync(__dirname + "/output.html", html, "utf-8");
 })();
