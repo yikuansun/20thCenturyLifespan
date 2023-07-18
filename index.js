@@ -9,10 +9,10 @@ const dfd = require("danfojs-node");
     var birthYears = JSON.parse(JSON.stringify(df.column("Born: Year ").values));
     var deathYears = JSON.parse(JSON.stringify(df.column("Died: Year").values));
     var predictedGenders = JSON.parse(JSON.stringify(df.column("Predicted Gender").values));
-    var yearList = [];
-    var mfmf = [];
-    var avgAges = [];
-    var cWay = [];
+    var yearListM = [];
+    var yearListF = [];
+    var avgAgesM = [];
+    var avgAgesF = [];
     for (var year = 1850; year < 1950; year++) {
         var mLifespans = [];
         var fLifespans = [];
@@ -26,32 +26,40 @@ const dfd = require("danfojs-node");
             predictedGenders.splice(0, 1);
         }
 
-        mfmf.push("m");
-        yearList.push(year);
         var mSum = 0;
         for (var age of mLifespans) mSum += age;
-        avgAges.push(mSum / mLifespans.length);
-        cWay.push("darkblue");
+        var ageM = mSum / mLifespans.length;
+        if (ageM) avgAgesM.push(ageM);
+        if (ageM) yearListM.push(year);
 
-        mfmf.push("f");
-        yearList.push(year);
         var fSum = 0;
         for (var age of fLifespans) fSum += age;
-        avgAges.push(fSum / fLifespans.length);
-        cWay.push("deeppink");
+        var ageF = fSum / fLifespans.length;
+        if (ageF) avgAgesF.push(ageF);
+        if (ageF) yearListF.push(year);
 
     }
     var pltData1 = [{
-        x: [yearList, mfmf],
-        y: avgAges,
-        type: "bar",
+        x: yearListM,
+        y: avgAgesM,
+        type: "scatter",
         orientation: "v",
         marker: {
-            color: cWay,
+            color: "darkblue",
         },
+        name: "male",
+    }, {
+        x: yearListF,
+        y: avgAgesF,
+        type: "scatter",
+        orientation: "v",
+        marker: {
+            color: "deeppink",
+        },
+        name: "female",
     }];
     pltLayout1 = {
-        width: 3200,
+        width: 1200,
         height: 450,
         xaxis: {
             tickangle: "auto",
@@ -145,7 +153,7 @@ const dfd = require("danfojs-node");
     var pltData3 = [{
         x: yearListSimple,
         y: validDataPoints,
-        type: "scatter",
+        type: "bar",
         orientation: "v",
     }];
     pltLayout3 = {
@@ -218,7 +226,7 @@ const dfd = require("danfojs-node");
 
     var html = `<script src="https://cdnjs.cloudflare.com/ajax/libs/plotly.js/2.24.2/plotly.min.js" charset="utf-8"></script>
 
-        <div id="tester" style="width:3200px;height:450px;"></div>
+        <div id="tester" style="width:1200px;height:450px;"></div>
         <div id="tester2" style="width:1000px;height:450px;"></div>
         <div id="tester3" style="width:1600px;height:450px;"></div>
         <div id="tester4" style="width:1600px;height:450px;"></div>
