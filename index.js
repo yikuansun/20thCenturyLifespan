@@ -67,11 +67,10 @@ const dfd = require("danfojs-node");
     deathYears = JSON.parse(JSON.stringify(df.column("Died: Year").values));
     predictedGenders = JSON.parse(JSON.stringify(df.column("Predicted Gender").values));
     var decadeList = [];
-    var avgAges10Yr = [];
-    var mfmf10Yr = [];
-    var cWay10Yr = [];
+    var avgAges10YrM = [];
+    var avgAges10YrF = [];
     for (var decade = 1850; decade < 1950; decade += 10) {
-        for (var i = 0; i < 2; i++) decadeList.push(decade);
+        decadeList.push(decade);
 
         var mLifespans = [];
         var fLifespans = [];
@@ -85,27 +84,33 @@ const dfd = require("danfojs-node");
             predictedGenders.splice(0, 1);
         }
 
-        mfmf10Yr.push("m");
         var mSum = 0;
         for (var age of mLifespans) mSum += age;
-        avgAges10Yr.push(mSum / mLifespans.length);
-        cWay10Yr.push("darkblue");
+        avgAges10YrM.push(mSum / mLifespans.length);
 
-        mfmf10Yr.push("f");
         var fSum = 0;
         for (var age of fLifespans) fSum += age;
-        avgAges10Yr.push(fSum / fLifespans.length);
-        cWay10Yr.push("deeppink");
+        avgAges10YrF.push(fSum / fLifespans.length);
 
     }
     var pltData2 = [{
-        x: [decadeList, mfmf10Yr],
-        y: avgAges10Yr,
-        type: "bar",
+        x: decadeList,
+        y: avgAges10YrM,
+        type: "scatter",
         orientation: "v",
         marker: {
-            color: cWay10Yr,
+            color: "darkblue",
         },
+        name: "male",
+    }, {
+        x: decadeList,
+        y: avgAges10YrF,
+        type: "scatter",
+        orientation: "v",
+        marker: {
+            color: "deeppink",
+        },
+        name: "female",
     }];
     pltLayout2 = {
         width: 1000,
